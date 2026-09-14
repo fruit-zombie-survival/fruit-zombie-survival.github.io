@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "generatedAt": "2026-09-14T16:08:00.576Z",
+  "productionSiteUrl": "https://fruit-zombie-survival.github.io",
+  "errors": [],
+  "warnings": [],
+  "checks": {
+    "typecheck": "pass",
+    "lint": "pass",
+    "validate": "pass",
+    "build": "pass",
+    "seoAudit": "pass",
+    "brokenLinks": 0,
+    "brokenAssets": 0,
+    "contentLanguageScan": 0,
+    "wordCounts": {
+      "home": 2157,
+      "tier-list": 1381,
+      "codes": 1290,
+      "artifacts": 1008,
+      "fruits": 1264,
+      "how-to-play": 1499,
+      "diamonds": 1192
+    },
+    "canonicals": {
+      "/": "https://fruit-zombie-survival.github.io/",
+      "/tier-list/": "https://fruit-zombie-survival.github.io/tier-list/",
+      "/codes/": "https://fruit-zombie-survival.github.io/codes/",
+      "/artifacts/": "https://fruit-zombie-survival.github.io/artifacts/",
+      "/fruits/": "https://fruit-zombie-survival.github.io/fruits/",
+      "/how-to-play/": "https://fruit-zombie-survival.github.io/how-to-play/",
+      "/diamonds/": "https://fruit-zombie-survival.github.io/diamonds/"
+    }
+  },
+  "notes": [
+    "Final patch QA after tier-list unranked status + fruits Confirmed Fruit List.",
+    "siteUrl/basePath confirmed for https://fruit-zombie-survival.github.io with empty basePath.",
+    "Named fruit combat S/A ranks removed; Kitsune/Shiny Kitsune marked Early data / Unranked.",
+    "Full 20-fruit shop roster not publicly listable via developer-products API; Confirmed List used instead of Complete List.",
+    "Warning about Kitsune S was a false positive from the phrase “S–D rank”; table uses Early data / Unranked."
+  ]
+}

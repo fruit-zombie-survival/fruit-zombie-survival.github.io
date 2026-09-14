@@ -1,0 +1,193 @@
+{
+  "gameName": "Fruit Zombie Survival",
+  "platform": "Roblox",
+  "developer": "Vibed Games",
+  "siteStrategy": "Launch a focused seven-page Fruit Zombie Survival wiki hub covering the game entity plus Codes, Tier List, Fruits, Artifacts, How to Play, and Diamonds as independent search intents.",
+  "readyForLaunch": true,
+  "hosting": {
+    "siteUrl": "https://fruit-zombie-survival.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "pages": [
+    {
+      "slug": "",
+      "pageType": "home",
+      "primaryKeyword": "Fruit Zombie Survival",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival Roblox",
+        "Fruit Zombie Survival wiki",
+        "Fruit Zombie Survival guide",
+        "Fruit Zombie Survival game",
+        "Fruit Zombie Survival tips"
+      ],
+      "searchIntent": "Confirm what Fruit Zombie Survival is on Roblox, learn the core systems, and jump into codes, tier list, fruits, artifacts, Diamonds, and beginner guides.",
+      "priority": "P0",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Wiki & Guide (2026)",
+      "description": "Fruit Zombie Survival wiki and guide for the Roblox game by Vibed Games. Find codes, tier list, fruits, artifacts, Diamonds, and beginner tips.",
+      "h1": "Fruit Zombie Survival Wiki & Guide",
+      "relatedSlugs": [],
+      "decision": "Homepage wiki hub"
+    },
+    {
+      "slug": "tier-list",
+      "pageType": "list",
+      "primaryKeyword": "Fruit Zombie Survival Tier List",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival fruit tier list",
+        "best fruits in Fruit Zombie Survival",
+        "Fruit Zombie Survival best fruit",
+        "Fruit Zombie Survival best build",
+        "Fruit Zombie Survival solo build",
+        "Fruit Zombie Survival co-op build"
+      ],
+      "searchIntent": "Quickly identify which Fruit Zombie Survival fruit roles and builds are strongest for waves, bosses, solo, and co-op in the current version.",
+      "priority": "P0",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Tier List (2026): Best Fruits",
+      "description": "Use our Fruit Zombie Survival tier list to compare the best fruits and builds for waves, bosses, solo runs, and co-op play, with current 2026 notes.",
+      "h1": "Fruit Zombie Survival Tier List",
+      "relatedSlugs": [
+        "fruits",
+        "artifacts",
+        "how-to-play",
+        "diamonds"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "codes",
+      "pageType": "codes",
+      "primaryKeyword": "Fruit Zombie Survival Codes",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival codes September 2026",
+        "Fruit Zombie Survival active codes",
+        "Fruit Zombie Survival Roblox codes",
+        "Fruit Zombie Survival codes for Diamonds",
+        "Fruit Zombie Survival code redemption"
+      ],
+      "searchIntent": "Copy currently active Fruit Zombie Survival codes, see rewards, redeem correctly, and fix common redemption failures.",
+      "priority": "P0",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Codes (September 2026)",
+      "description": "Get the latest Fruit Zombie Survival codes for Diamonds, Revives, and Artifact Crate Rolls, plus exact redemption steps and update checks.",
+      "h1": "Fruit Zombie Survival Codes",
+      "relatedSlugs": [
+        "diamonds",
+        "artifacts",
+        "how-to-play"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "artifacts",
+      "pageType": "guide",
+      "primaryKeyword": "Fruit Zombie Survival Artifacts",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival artifacts guide",
+        "Fruit Zombie Survival artifact",
+        "Artifact Crate Roll Fruit Zombie Survival",
+        "Fruit Zombie Survival artifact update",
+        "Fruit Zombie Survival artifact build"
+      ],
+      "searchIntent": "Understand what Fruit Zombie Survival artifacts are, how to get them, how crate rolls work, and how to plan builds around them.",
+      "priority": "P1",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Artifacts Guide (2026)",
+      "description": "Learn how Fruit Zombie Survival artifacts work, how Artifact Crate Rolls fit the game, what is confirmed, and how to plan builds around artifacts.",
+      "h1": "Fruit Zombie Survival Artifacts Guide",
+      "relatedSlugs": [
+        "codes",
+        "fruits",
+        "tier-list",
+        "how-to-play"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "fruits",
+      "pageType": "database",
+      "primaryKeyword": "Fruit Zombie Survival Fruits",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival Devil Fruits",
+        "Fruit Zombie Survival fruit list",
+        "Fruit Zombie Survival fruits guide",
+        "Fruit Zombie Survival best fruits",
+        "how to get fruits in Fruit Zombie Survival",
+        "Fruit Zombie Survival 20 fruits"
+      ],
+      "searchIntent": "Understand the Fruit Zombie Survival Devil Fruits system, the 20-fruit collection goal, how to unlock and compare fruits, and where to find rankings.",
+      "priority": "P1",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Fruits Guide & Tier Tips (2026)",
+      "description": "Explore all known Fruit Zombie Survival fruits, how Devil Fruits work, how to unlock and compare them, and which fruit roles fit waves, bosses, and co-op.",
+      "h1": "Fruit Zombie Survival Fruits Guide",
+      "relatedSlugs": [
+        "tier-list",
+        "diamonds",
+        "how-to-play",
+        "artifacts"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "how-to-play",
+      "pageType": "guide",
+      "primaryKeyword": "How to Play Fruit Zombie Survival",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival beginner guide",
+        "Fruit Zombie Survival guide",
+        "Fruit Zombie Survival how to play Roblox",
+        "Fruit Zombie Survival tips",
+        "Fruit Zombie Survival beginner tips",
+        "Fruit Zombie Survival walkthrough"
+      ],
+      "searchIntent": "Help new players learn the Fruit Zombie Survival run loop, first actions, and how fruits, builds, Berries, waves, bosses, and co-op fit together.",
+      "priority": "P1",
+      "navVisible": true,
+      "title": "How to Play Fruit Zombie Survival: Beginner Guide",
+      "description": "Learn how to play Fruit Zombie Survival on Roblox: choose a character, use Devil Fruits, spend Berries, survive zombie waves, beat bosses, and play co-op.",
+      "h1": "How to Play Fruit Zombie Survival",
+      "relatedSlugs": [
+        "codes",
+        "fruits",
+        "diamonds",
+        "tier-list",
+        "artifacts"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "diamonds",
+      "pageType": "guide",
+      "primaryKeyword": "Fruit Zombie Survival Diamonds",
+      "secondaryKeywords": [
+        "how to get Diamonds in Fruit Zombie Survival",
+        "Fruit Zombie Survival Diamonds fast",
+        "Fruit Zombie Survival Diamond guide",
+        "Fruit Zombie Survival Diamond farming",
+        "Fruit Zombie Survival codes Diamonds"
+      ],
+      "searchIntent": "Learn what Fruit Zombie Survival Diamonds are, how to get them, which methods are verified, how codes help, and how to avoid wasting them.",
+      "priority": "P1",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Diamonds: How to Get Them Fast",
+      "description": "Learn how to get Diamonds in Fruit Zombie Survival, what Diamonds are used for, which farming methods are verified, and how codes can boost your balance.",
+      "h1": "Fruit Zombie Survival Diamonds Guide",
+      "relatedSlugs": [
+        "codes",
+        "fruits",
+        "how-to-play",
+        "tier-list"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    }
+  ],
+  "notes": [
+    "Supersedes earlier minimal three-page planning.",
+    "Runtime source of truth remains content/generated/*.json.",
+    "Synced 2026-09-14",
+    "Final patch 2026-09-14: tier-list unranked status + fruits confirmed list wording."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "projectId": "site_bde5ade6-7973-4c0a-bd0b-269830bb3436",
+  "gameName": "Fruit Zombie Survival",
+  "generatedAt": "2026-09-14T14:07:39.267Z",
+  "templateVersion": "game-seo-master-template-v1",
+  "readyForLaunch": false,
+  "filesGenerated": [
+    "content/generated/site.json",
+    "content/generated/home.json",
+    "content/generated/pages.json",
+    "CODEX_BRIEF.md",
+    "CODEX_HANDOFF_PROMPT.txt",
+    "GAME_FACT_PACK.json",
+    "SOURCE_PACK.json",
+    "CONTENT_PACK.json",
+    "GENERATION_AUDIT.json",
+    "THEME.json",
+    "SERP_BRIEF.json",
+    "QA_REPORT.json"
+  ],
+  "projectContextVersion": "mvp1-v3",
+  "codexHandoffPromptFile": "CODEX_HANDOFF_PROMPT.txt",
+  "contentMode": "llm",
+  "seoMode": "deterministic",
+  "factPackSource": "cache",
+  "qaVersion": "v3.0",
+  "launchEligible": false,
+  "launchLabel": "blocked",
+  "hardFailCount": 3,
+  "warningCount": 4,
+  "buildReady": false,
+  "publishReady": false,
+  "projectStatus": "needs_repair",
+  "launchReasons": [
+    "production build did not pass",
+    "3 hard fail(s) remain",
+    "final QA did not pass"
+  ],
+  "audit": {
+    "contentMode": "llm",
+    "seoMode": "deterministic",
+    "factPackSource": "cache",
+    "qaVersion": "v3.0",
+    "themeMode": "preset",
+    "buildMode": "auto"
+  },
+  "qa": {
+    "passed": false,
+    "errors": [
+      "Asset QA: missing logo file for /images/fruit-zombie-survival-logo.svg",
+      "Asset QA: missing cover file for /images/fruit-zombie-survival-cover.svg",
+      "Asset QA: missing favicon file for /images/fruit-zombie-survival-logo.svg"
+    ],
+    "warnings": [
+      "home: soft AI boilerplate phrasing detected",
+      "home: keyword density 0.008 is below soft min 0.02",
+      "tier-list: keyword density 0.004 is below soft min 0.02",
+      "home: soft AI boilerplate phrasing detected"
+    ],
+    "details": {
+      "planning": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "facts": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "content": {
+        "passed": true,
+        "errors": [],
+        "warnings": [
+          "home: soft AI boilerplate phrasing detected"
+        ]
+      },
+      "quality": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "seo": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "internalLinks": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "assets": {
+        "passed": false,
+        "errors": [
+          "Asset QA: missing logo file for /images/fruit-zombie-survival-logo.svg",
+          "Asset QA: missing cover file for /images/fruit-zombie-survival-cover.svg",
+          "Asset QA: missing favicon file for /images/fruit-zombie-survival-logo.svg"
+        ],
+        "warnings": []
+      },
+      "technical": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "theme": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      }
+    }
+  }
+}

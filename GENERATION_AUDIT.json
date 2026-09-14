@@ -1,0 +1,8 @@
+{
+  "contentMode": "llm",
+  "seoMode": "deterministic",
+  "factPackSource": "cache",
+  "qaVersion": "v3.0",
+  "themeMode": "preset",
+  "buildMode": "auto"
+}

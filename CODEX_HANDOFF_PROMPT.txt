@@ -1,0 +1,21 @@
+我已上传 Worker 自动生成的「Fruit Zombie Survival」游戏 SEO 站源码 ZIP（fruit-zombie-survival-site.zip）。
+
+请先解压，先不要直接改代码。按顺序阅读根目录的 `PROJECT_CONTEXT.md`、`CODEX_BRIEF.md`、`SITE_PLAN.json`、`SEO_PLAN.json`、`GENERATION_MANIFEST.json`（以及如有的 `THEME.json` / `SERP_BRIEF.json`），再浏览 `.agent/skills/game-seo-fast-rank/SKILL.md`。
+
+## 已经完成（不要重做）
+
+ZIP 已包含：规划结果、正文 Content Pack、On-page SEO、主题化品牌素材、内链、技术 SEO（sitemap/robots/schema 等）以及 Build QA。除非 QA / Manifest 明确标出问题，否则：
+
+- 不要重新规划关键词或页面结构
+- 不要整站重写 URL / 主词映射 / 核心内链
+- 不要把站点推倒重来
+
+## Codex 只做这些可选收尾
+
+1. 可选视觉 / 文案 polish（可读性、语气、轻微排版），保持搜索意图不变
+2. 填入真实部署 URL / custom domain（必要时再改 `readyForLaunch`）
+3. Analytics / Ads / verification 集成（若需要）
+4. 最终人工核对：兑换码、数值、掉落、版本、发布日等仍不得猜测
+5. 运行 `npm run typecheck`、`npm run lint`、`npm run build`（含 validate 与 SEO audit）
+
+完成后请汇报：改了什么、引用/核验来源、仍需人工确认事项，以及 Build / SEO Audit 是否通过。

@@ -1,0 +1,1904 @@
+[
+  {
+    "enabled": true,
+    "slug": "tier-list",
+    "pageType": "list",
+    "navLabel": "Tier List",
+    "title": "Fruit Zombie Survival Tier List (2026): Best Fruits",
+    "description": "Use our Fruit Zombie Survival tier list to compare the best fruits and builds for waves, bosses, solo runs, and co-op play, with current 2026 notes.",
+    "keywords": [
+      "Fruit Zombie Survival Tier List",
+      "Fruit Zombie Survival fruit tier list",
+      "best fruits in Fruit Zombie Survival",
+      "Fruit Zombie Survival best fruit",
+      "Fruit Zombie Survival best build",
+      "Fruit Zombie Survival solo build",
+      "Fruit Zombie Survival co-op build"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Tier List",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival fruit tier list",
+      "best fruits in Fruit Zombie Survival",
+      "Fruit Zombie Survival best fruit",
+      "Fruit Zombie Survival best build",
+      "Fruit Zombie Survival solo build",
+      "Fruit Zombie Survival co-op build"
+    ],
+    "searchIntent": "Quickly identify which Fruit Zombie Survival fruit roles and builds are strongest for waves, bosses, solo, and co-op in the current version.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1700,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Tier List",
+        "min": 0.8,
+        "max": 3.5
+      },
+      {
+        "term": "best fruits in Fruit Zombie Survival",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival best fruit",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival best build",
+        "min": 0.08,
+        "max": 1.2
+      }
+    ],
+    "hero": {
+      "eyebrow": "Current ranking status · 2026-09-14",
+      "heading": "Fruit Zombie Survival Tier List",
+      "lead": "Quick answer: current ranking status is Early Data. Kitsune and Shiny Kitsune are confirmed limited fruits, but more live data is needed before assigning a reliable S–D rank. Use the table below for confirmed fruits, then evaluate your live shop picks for wave clear, bosses, solo, and co-op."
+    },
+    "sections": [
+      {
+        "id": "quick-rankings",
+        "heading": "Fruit Zombie Survival Tier List – Current Ranking Status",
+        "intro": "Confirmed fruits and evaluation priorities for the Fruit Zombie Survival Tier List. Named limited fruits are confirmed by Roblox badges. Combat strength ranks stay Unranked until live performance data is strong enough.",
+        "paragraphs": [
+          "More live data is needed before assigning a reliable S–D rank.",
+          "Open your in-game fruit shop for the full on-screen list of all 20 collectible Devil Fruits. Compare what you own with the confirmed rows below, then use the wave/boss/solo/co-op sections to judge each kit in real runs.",
+          "Keep this Fruit Zombie Survival Tier List beside the fruits guide while Collect badges move. Re-check after patches, limited unlocks, and artifact crate nights."
+        ],
+        "table": {
+          "caption": "Current Fruit Zombie Survival ranking status (2026-09-14)",
+          "columns": [
+            "Fruit",
+            "Current Status",
+            "Best Known Use",
+            "Notes",
+            "Updated"
+          ],
+          "rows": [
+            [
+              "Kitsune",
+              "Early data / Unranked",
+              "Limited unlock to test when available",
+              "Confirmed by Unlock Kitsune Fruit ! (Limited) badge; no reliable S–D combat rank yet",
+              "2026-09-14"
+            ],
+            [
+              "Shiny Kitsune",
+              "Early data / Unranked",
+              "Limited completion unlock",
+              "Confirmed by Unlock Shiny Kitsune Fruit ! (Limited) badge; wait for live performance data before ranking",
+              "2026-09-14"
+            ],
+            [
+              "Next unowned fruit for Collect 5",
+              "Priority unlock",
+              "New accounts",
+              "Official Collect 5 badge goal — unlock uniqueness first",
+              "2026-09-14"
+            ],
+            [
+              "Next unowned fruit for Collect 10",
+              "Priority unlock",
+              "Early mid-game",
+              "Official Collect 10 badge goal",
+              "2026-09-14"
+            ],
+            [
+              "Next unowned fruit for Collect 15 / 20",
+              "Priority unlock",
+              "Account completion",
+              "Official Collect 15 and Collect 20 badge goals",
+              "2026-09-14"
+            ],
+            [
+              "Live shop wave-clear pick",
+              "Evaluate in-run",
+              "Endless zombie waves",
+              "Choose the shop fruit that covers packs; confirm on Wave 10–50 runs",
+              "2026-09-14"
+            ],
+            [
+              "Live shop boss-stable pick",
+              "Evaluate in-run",
+              "Special bosses",
+              "Keep only if it holds during boss spikes inside waves",
+              "2026-09-14"
+            ],
+            [
+              "Live shop solo-stable pick",
+              "Evaluate in-run",
+              "Solo runs",
+              "Needs self-sufficient clear + survivability",
+              "2026-09-14"
+            ],
+            [
+              "Live shop co-op utility pick",
+              "Evaluate in-run",
+              "Up to 4 friends",
+              "Fill a missing team role instead of stacking clones",
+              "2026-09-14"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Full fruits guide",
+            "slug": "fruits",
+            "description": "Collection badges, Fruit Maniac, and unlock routes."
+          }
+        ]
+      },
+      {
+        "id": "best-for-wave-clearing",
+        "heading": "Best Fruit for Wave Clearing",
+        "intro": "Wave clear is the backbone of this Fruit Zombie Survival Tier List because official badges track Wave 10, 25, 50, 100, and even Wave 500.",
+        "paragraphs": [
+          "For wave clearing, evaluate the shop fruit whose kit covers packs, not just one target. A strong Fruit Zombie Survival best fruit candidate for waves should protect Berry farming and help you reach Wave 10, 25, and 50 badges.",
+          "If you are still missing Collect 5 or Collect 10 fruits, unlock a new fruit before polishing a duplicate wave kit. Collection progress and wave progress reinforce each other."
+        ]
+      },
+      {
+        "id": "best-for-boss-fights",
+        "heading": "Best Fruit for Boss Fights",
+        "intro": "Special bosses appear inside endless waves, so boss value deserves its own lane in any Fruit Zombie Survival Tier List.",
+        "paragraphs": [
+          "For bosses, evaluate whether a fruit still works when special bosses appear inside endless waves. A Fruit Zombie Survival best fruit candidate for bosses should keep enough survivability that one mistake does not end the run.",
+          "Test boss pressure after you already have a workable wave-clear option. Many runs fail because players chase boss damage before they can survive the trash packs around the boss."
+        ]
+      },
+      {
+        "id": "best-for-solo",
+        "heading": "Best Fruit for Solo Runs",
+        "intro": "Solo Fruit Zombie Survival builds need forgiveness because nobody else covers your gaps.",
+        "paragraphs": [
+          "Prefer a Fruit Zombie Survival solo build that combines clear speed with personal survival. When Kitsune is available, test it in real runs before deciding whether it stays in your rotation.",
+          "Redeem a revive code early if you are learning timings, but do not build a plan that depends on paid revives every run."
+        ],
+        "links": [
+          {
+            "label": "How to Play checklist",
+            "slug": "how-to-play",
+            "description": "Stabilize the first-run loop before hard ranking."
+          },
+          {
+            "label": "Diamonds guide",
+            "slug": "diamonds",
+            "description": "Fund the next unlock without wasting currency."
+          }
+        ]
+      },
+      {
+        "id": "best-for-coop",
+        "heading": "Best Fruit for Co-op",
+        "intro": "Co-op supports up to four friends, so the Fruit Zombie Survival best build is often the missing role.",
+        "paragraphs": [
+          "In a full lobby, one player can hold wave clear while another covers bosses or utility. Agree on roles before the run so four people do not buy the same niche fruit.",
+          "Revive a Teammate is an official badge, which means coordinated saves matter. Utility that creates revive windows can outrank raw damage in messy four-player clears."
+        ]
+      },
+      {
+        "id": "how-we-rank",
+        "heading": "How We Rank the Best Fruits",
+        "intro": "This Fruit Zombie Survival Tier List separates confirmed unlock facts from combat ranks. Collection gates and limited fruit names are confirmed; S–D combat placements wait for live performance evidence.",
+        "paragraphs": [
+          "When two shop fruits are available, pick the one that matches your next badge goal, then re-test after artifacts or map unlocks change your loadout."
+        ],
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Confirmed limited fruit names from Roblox badges (Kitsune / Shiny Kitsune)",
+              "Collection priority from Collect 5 / 10 / 15 / 20 badges",
+              "Wave goals from Wave 10–500 milestone badges",
+              "In-run checks for wave clear, boss spikes, solo consistency, and co-op utility",
+              "No S–D combat rank from badge existence, rarity, or unlock difficulty alone"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-to-choose",
+        "heading": "How to Choose a Fruit",
+        "intro": "Use this path whenever you unlock or swap a Devil Fruit.",
+        "steps": [
+          {
+            "heading": "Check limited unlocks",
+            "description": "If Kitsune or Shiny Kitsune is available, test it in live runs before spending on a random duplicate."
+          },
+          {
+            "heading": "Fill the next Collect badge",
+            "description": "Buy or unlock a fruit you do not own if Collect 5 / 10 / 15 / 20 is still incomplete."
+          },
+          {
+            "heading": "Match the run goal",
+            "description": "Pick wave clear, boss stability, solo safety, or co-op utility based on your next ten runs."
+          },
+          {
+            "heading": "Stress-test one boss spike",
+            "description": "Keep the fruit only if it still works when special bosses appear."
+          },
+          {
+            "heading": "Re-rank after artifacts",
+            "description": "Artifact crate rewards can change survivability, so revisit this Fruit Zombie Survival Tier List after major redemptions and keep combat ranks provisional until the kit proves itself."
+          }
+        ],
+        "links": [
+          {
+            "label": "Artifacts guide",
+            "slug": "artifacts",
+            "description": "Rarity ladder and crate-roll sources."
+          }
+        ],
+        "paragraphs": [
+          "Revisit the Fruit Zombie Survival Tier List after Dressrosa unlocks Baratie or after artifact crate nights, because map and gear changes can alter which Fruit Zombie Survival best fruit feels stable."
+        ]
+      },
+      {
+        "id": "what-can-change",
+        "heading": "What Can Change the Tier List?",
+        "intro": "Limited fruit badges, new shop entries, artifact sets, and map unlocks can all move the Fruit Zombie Survival Tier List.",
+        "paragraphs": [
+          "Limited fruit badges, new shop entries, artifact sets, and map unlocks can all move future Fruit Zombie Survival Tier List placements. After any patch, re-check Collect badges, Wave badges, and the live shop before treating any fruit as a settled combat rank.",
+          "Balance changes and new builds can also shift solo versus co-op value. Keep this page bookmarked with the fruits and diamonds guides so your spend order stays current."
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Ranking inputs for this Fruit Zombie Survival Tier List come from current Roblox badge and game data.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official Roblox experience: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Roblox badges checked 2026-09-14: Collect 5/10/15/20 fruits, Fruit Maniac, Unlock Kitsune / Shiny Kitsune, Wave 10–500",
+              "Live fruit shop names and combat kits should be confirmed in-client for the remaining roster"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best fruit in Fruit Zombie Survival?",
+        "answer": "There is no reliable S–D combat rank yet for named fruits. Check Kitsune when the limited unlock is available, prioritize any missing Collect 5 / 10 / 15 / 20 fruit, then keep the shop kit that proves strongest in your live wave and boss runs."
+      },
+      {
+        "question": "What is the best fruit for solo play?",
+        "answer": "Choose a self-sufficient shop fruit with stable clear speed and survivability. A Fruit Zombie Survival solo build should not depend on perfect teammate peel."
+      },
+      {
+        "question": "What is the best fruit for bosses?",
+        "answer": "Keep a boss-stable fruit after you already have workable wave clear. Special bosses appear inside waves, so pure trash-clear kits can fall off."
+      },
+      {
+        "question": "Does the tier list change after updates?",
+        "answer": "Yes. Limited fruit badges, new shop fruits, artifacts, and map unlocks can all move the Fruit Zombie Survival Tier List."
+      },
+      {
+        "question": "Are Fruit Zombie Survival fruits the same as Blox Fruits?",
+        "answer": "No. Fruit Zombie Survival is a separate Vibed Games experience with its own 20-fruit collection, wave badges, and shop unlocks."
+      }
+    ],
+    "relatedSlugs": [
+      "fruits",
+      "artifacts",
+      "how-to-play",
+      "diamonds"
+    ],
+    "lastReviewed": "2026-09-14"
+  },
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Fruit Zombie Survival Codes (September 2026)",
+    "description": "Get the latest Fruit Zombie Survival codes for Diamonds, Revives, and Artifact Crate Rolls, plus exact redemption steps and update checks.",
+    "keywords": [
+      "Fruit Zombie Survival Codes",
+      "Fruit Zombie Survival codes September 2026",
+      "Fruit Zombie Survival active codes",
+      "Fruit Zombie Survival Roblox codes",
+      "Fruit Zombie Survival codes for Diamonds",
+      "Fruit Zombie Survival code redemption"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Codes",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival codes September 2026",
+      "Fruit Zombie Survival active codes",
+      "Fruit Zombie Survival Roblox codes",
+      "Fruit Zombie Survival codes for Diamonds",
+      "Fruit Zombie Survival code redemption"
+    ],
+    "searchIntent": "Copy currently active Fruit Zombie Survival codes, see rewards, redeem correctly, and fix common redemption failures.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1200,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Codes",
+        "min": 1.8,
+        "max": 3.5
+      },
+      {
+        "term": "Fruit Zombie Survival active codes",
+        "min": 0.2,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival Roblox codes",
+        "min": 0.15,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival codes for Diamonds",
+        "min": 0.1,
+        "max": 1.2
+      }
+    ],
+    "hero": {
+      "eyebrow": "Updated September 2026",
+      "heading": "Fruit Zombie Survival Codes",
+      "lead": "Here are the latest Fruit Zombie Survival Codes for September 2026, including Diamonds, revives, gems, and Artifact Crate Rolls. Copy a code from the active table, redeem it in Settings, then use troubleshooting if a reward fails."
+    },
+    "sections": [
+      {
+        "id": "active-codes",
+        "heading": "Active Fruit Zombie Survival Codes",
+        "intro": "Last checked: 2026-09-14. The Fruit Zombie Survival Codes below are listed as active by current guide coverage from Destructoid and Pro Game Guides. Rewards are reported active as of that check date and can expire without much warning.",
+        "paragraphs": [
+          "Enter every code exactly as shown. Fruit Zombie Survival Roblox codes are case-sensitive in practice, so do not normalize capitalization. Use the Copy button if you want fewer typos, or manually highlight the code text if JavaScript is unavailable.",
+          "Refresh this Fruit Zombie Survival Codes list after major updates. Launch-period Fruit Zombie Survival Codes can rotate quickly, and outdated screenshots are one of the top reasons players think working Fruit Zombie Survival Codes are broken."
+        ],
+        "table": {
+          "caption": "Active Fruit Zombie Survival codes (checked 2026-09-14)",
+          "columns": [
+            "Code",
+            "Reward",
+            "Status"
+          ],
+          "copyable": true,
+          "rows": [
+            [
+              "SorryForPerturbations",
+              "10K gems",
+              "Reported active"
+            ],
+            [
+              "w0w8kCCU",
+              "1 Artifact Crate Roll with x2 Luck",
+              "Reported active"
+            ],
+            [
+              "1kDiscordGG",
+              "1 Artifact Crate Roll",
+              "Reported active"
+            ],
+            [
+              "VibeStarter",
+              "1 Revive",
+              "Reported active"
+            ],
+            [
+              "Up5ndc0ming",
+              "1 Artifact Crate Roll",
+              "Reported active"
+            ],
+            [
+              "Disc0rd",
+              "1.5k Diamonds",
+              "Reported active"
+            ],
+            [
+              "FiveKCcU",
+              "2.5k Diamonds",
+              "Reported active"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-redeem",
+        "heading": "How to Redeem Fruit Zombie Survival Codes",
+        "intro": "Fruit Zombie Survival code redemption happens inside the experience. You do not need an external website claim form.",
+        "steps": [
+          {
+            "heading": "Launch the game",
+            "description": "Open Fruit Zombie Survival in Roblox and wait until the experience fully loads."
+          },
+          {
+            "heading": "Open Settings",
+            "description": "Press Settings in the top-left corner of the screen."
+          },
+          {
+            "heading": "Paste the code",
+            "description": "Enter the code in the field labeled for Discord or promo codes. Keep the original capitalization."
+          },
+          {
+            "heading": "Press Redeem",
+            "description": "Confirm the redeem action and verify the reward appears in your account or inventory feedback."
+          }
+        ],
+        "paragraphs": [
+          "If you are redeeming Fruit Zombie Survival codes for Diamonds, note the exact Diamond amount before leaving the menu. For Artifact Crate Rolls, decide whether to open immediately or save the roll for a planned build session.",
+          "New players should redeem VibeStarter early because a spare revive makes learning wave timing less punishing. Then claim Diamond and crate codes so your account starts with progression resources instead of an empty economy.",
+          "Make Fruit Zombie Survival Codes part of every pre-run checklist. Spending thirty seconds on Fruit Zombie Survival Codes before a session is usually faster than grinding the same reward value later."
+        ]
+      },
+      {
+        "id": "not-working",
+        "heading": "Why a Fruit Zombie Survival Code Is Not Working",
+        "intro": "Most failed Fruit Zombie Survival Codes redemptions come from simple input or timing issues rather than a broken game menu.",
+        "paragraphs": [
+          "First, re-check capitalization and avoid extra spaces. Codes like w0w8kCCU, Disc0rd, and FiveKCcU are easy to mistype. Second, confirm you have not already redeemed that code on the same account. Third, retry after a short wait in case the live server is lagging behind a just-published drop.",
+          "If a code suddenly fails for everyone, it has likely expired or been replaced. Update this page’s active table mentally against the newest reliable list and avoid random codes posted without a reward description.",
+          "Also separate network issues from code issues. If Settings will not open or the redeem button does not respond, restart the Roblox session before assuming the Fruit Zombie Survival active codes list is wrong.",
+          "If multiple Fruit Zombie Survival Codes fail at once, compare the live table again before assuming the redeem UI is at fault. Community mirrors sometimes lag behind the newest Fruit Zombie Survival Codes drop."
+        ],
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Wrong capitalization or hidden spaces",
+              "Code already redeemed on the account",
+              "Code expired after the last public check",
+              "Temporary menu or server lag",
+              "Using a code from a different Roblox game by mistake"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rewards-overview",
+        "heading": "What Rewards Can You Get From Codes?",
+        "intro": "Current Fruit Zombie Survival Codes cover several progression needs at once.",
+        "paragraphs": [
+          "Diamonds are the premium-style currency players ask about most often. Disc0rd and FiveKCcU are the present Diamond-focused examples on the active list. Gems also appear through SorryForPerturbations, so do not assume every currency reward is a Diamond payout.",
+          "Artifact Crate Rolls are the other headline reward category. Multiple Fruit Zombie Survival active codes currently point at crate rolls, including one roll with x2 Luck. That makes the codes page closely related to the artifacts guide.",
+          "Revives matter for learning and boss spikes. VibeStarter’s revive is especially useful for solo beginners who are still building wave awareness. None of these rewards replace learning the run loop, but they accelerate a clean start.",
+          "Players hunting Fruit Zombie Survival codes for Diamonds should redeem Disc0rd and FiveKCcU first, then finish the remaining Fruit Zombie Survival Codes for crates and revives."
+        ],
+        "table": {
+          "caption": "Reward types currently tied to Fruit Zombie Survival codes",
+          "columns": [
+            "Reward type",
+            "Why it matters",
+            "Related page"
+          ],
+          "rows": [
+            [
+              "Diamonds",
+              "Premium progression boost from listed codes",
+              "Diamonds guide"
+            ],
+            [
+              "Gems",
+              "Separate currency reward on at least one active code",
+              "Codes page"
+            ],
+            [
+              "Artifact Crate Roll",
+              "Entry point into the artifacts progression layer",
+              "Artifacts guide"
+            ],
+            [
+              "Revive",
+              "Second chance during tough waves or bosses",
+              "How to Play"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Fruit Zombie Survival Diamonds",
+            "slug": "diamonds",
+            "description": "See how Diamond rewards fit your spending plan."
+          },
+          {
+            "label": "Artifacts Guide",
+            "slug": "artifacts",
+            "description": "Plan what to do after claiming crate rolls."
+          }
+        ]
+      },
+      {
+        "id": "where-new-codes-appear",
+        "heading": "Where New Fruit Zombie Survival Codes Appear",
+        "intro": "New Fruit Zombie Survival Roblox codes usually appear around updates, apologies, milestones, or community pushes.",
+        "paragraphs": [
+          "The most practical habit is to check a maintained codes list and the developer community channels after any patch. Destructoid’s September 14, 2026 coverage also points players toward the Vibed Games community presence and Discord for official chatter.",
+          "Do not wait until you are already stuck on a hard wave to redeem. Make Fruit Zombie Survival code redemption part of your pre-run checklist, especially when Artifact Crate Rolls or Diamonds are involved.",
+          "This page will stay focused on active codes and redemption help. Broader beginner strategy belongs on How to Play, while currency planning belongs on the Diamonds guide."
+        ],
+        "links": [
+          {
+            "label": "Beginner How to Play",
+            "slug": "how-to-play",
+            "description": "Turn redeemed rewards into better first runs."
+          }
+        ]
+      },
+      {
+        "id": "expired-codes",
+        "heading": "Expired Fruit Zombie Survival Codes",
+        "intro": "No confirmed expired codes are listed in the sources checked on 2026-09-14. This section will be updated as codes expire.",
+        "paragraphs": [
+          "Because launch-period rewards can change quickly, re-check this page after major updates before assuming an older screenshot is still valid."
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Fruit Zombie Survival Codes are time-sensitive. This page prioritizes recent cross-checked lists over single unverified social posts.",
+        "paragraphs": [
+          "Active code count and rewards are dated to the last checked stamp above."
+        ],
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official game page: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Destructoid codes coverage updated September 14, 2026",
+              "Pro Game Guides codes coverage listing the same seven active codes as of September 13, 2026"
+            ]
+          },
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official game page: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Cross-checked against current September 2026 code lists from Destructoid and Pro Game Guides"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the latest Fruit Zombie Survival codes?",
+        "answer": "As of 2026-09-14, publicly listed Fruit Zombie Survival Codes include SorryForPerturbations, w0w8kCCU, 1kDiscordGG, VibeStarter, Up5ndc0ming, Disc0rd, and FiveKCcU."
+      },
+      {
+        "question": "How do I redeem codes?",
+        "answer": "Launch Fruit Zombie Survival, open Settings in the top-left, enter the code in the promo or Discord codes field, and press Redeem."
+      },
+      {
+        "question": "Are Fruit Zombie Survival codes case-sensitive?",
+        "answer": "Treat them as case-sensitive. Enter Fruit Zombie Survival active codes exactly as written, including numbers and capital letters."
+      },
+      {
+        "question": "Why is my code not working?",
+        "answer": "Common causes are typos, prior redemption, expiration, or temporary menu lag. Recopy the code and retry after a restart if needed."
+      },
+      {
+        "question": "How often are new codes released?",
+        "answer": "There is no fixed public calendar. New Fruit Zombie Survival Roblox codes usually appear around updates, milestones, or community events, so check after major patches."
+      }
+    ],
+    "relatedSlugs": [
+      "diamonds",
+      "artifacts",
+      "how-to-play"
+    ],
+    "lastReviewed": "2026-09-14"
+  },
+  {
+    "enabled": true,
+    "slug": "artifacts",
+    "pageType": "guide",
+    "navLabel": "Artifacts",
+    "title": "Fruit Zombie Survival Artifacts Guide (2026)",
+    "description": "Learn how Fruit Zombie Survival artifacts work, how Artifact Crate Rolls fit the game, what is confirmed, and how to plan builds around artifacts.",
+    "keywords": [
+      "Fruit Zombie Survival Artifacts",
+      "Fruit Zombie Survival artifacts guide",
+      "Fruit Zombie Survival artifact",
+      "Artifact Crate Roll Fruit Zombie Survival",
+      "Fruit Zombie Survival artifact update",
+      "Fruit Zombie Survival artifact build"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Artifacts",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival artifacts guide",
+      "Fruit Zombie Survival artifact",
+      "Artifact Crate Roll Fruit Zombie Survival",
+      "Fruit Zombie Survival artifact update",
+      "Fruit Zombie Survival artifact build"
+    ],
+    "searchIntent": "Understand what Fruit Zombie Survival artifacts are, how to get them, how crate rolls work, and how to plan builds around them.",
+    "priority": "P1",
+    "navVisible": true,
+    "wordCountTarget": 1500,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Artifacts",
+        "min": 0.8,
+        "max": 3.5
+      },
+      {
+        "term": "Fruit Zombie Survival artifacts guide",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Artifact Crate Roll Fruit Zombie Survival",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival artifact",
+        "min": 0.08,
+        "max": 1.2
+      }
+    ],
+    "hero": {
+      "eyebrow": "Rarity + crate guide",
+      "heading": "Fruit Zombie Survival Artifacts Guide",
+      "lead": "Quick answer: Fruit Zombie Survival Artifacts use a Common → Mythic collection ladder confirmed by Roblox badges, Artifact Crate Rolls come from current codes, and limited Kitsune artifact collection exists as its own badge track."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Fruit Zombie Survival Artifacts – Quick Answer",
+        "intro": "Artifacts are a progression and collection layer beside Devil Fruits. Start with crate-roll codes, then chase rarity-set badges.",
+        "table": {
+          "caption": "Artifact status snapshot (2026-09-14)",
+          "columns": [
+            "Topic",
+            "Current status",
+            "Player action"
+          ],
+          "rows": [
+            [
+              "Rarity ladder",
+              "Common, Uncommon, Rare, Epic, Legendary, Mythic",
+              "Track set-completion badges"
+            ],
+            [
+              "Crate rolls",
+              "Listed on multiple active codes",
+              "Redeem codes before they expire"
+            ],
+            [
+              "Limited track",
+              "Unlock Every Kitsune artifacts (Limited)",
+              "Check limited availability"
+            ],
+            [
+              "Named stats / odds",
+              "Not published in badge text",
+              "Compare drops by survivability and wave clear"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Fruit Zombie Survival Artifacts matter now because the official experience branding highlights Artifacts and the badge list already tracks full rarity-set completion. Treat crate rolls as your first intake, then use the Common through Mythic checklist as the long-term tracker.",
+          "A clean Fruit Zombie Survival artifacts guide habit is simple: redeem rolls, equip one change, play one focused run, then update your rarity badge progress before buying extra store slots."
+        ]
+      },
+      {
+        "id": "artifact-rarities",
+        "heading": "Artifact Rarities",
+        "intro": "Roblox badges confirm the Fruit Zombie Survival Artifacts rarity ladder directly.",
+        "table": {
+          "caption": "Official artifact rarity collection badges",
+          "columns": [
+            "Rarity",
+            "Collection badge",
+            "Event-limited?",
+            "What we know"
+          ],
+          "rows": [
+            [
+              "Common",
+              "Collect every Common artifacts (No Events)",
+              "No Events tag",
+              "Permanent collection track"
+            ],
+            [
+              "Uncommon",
+              "Collect every Uncommon artifacts (No Events)",
+              "No Events tag",
+              "Permanent collection track"
+            ],
+            [
+              "Rare",
+              "Collect every Rare artifacts (No Events)",
+              "No Events tag",
+              "Permanent collection track"
+            ],
+            [
+              "Epic",
+              "Collect every Epic artifacts (No Events)",
+              "No Events tag",
+              "Permanent collection track"
+            ],
+            [
+              "Legendary",
+              "Collect every Legendary artifacts (No Events)",
+              "No Events tag",
+              "Permanent collection track"
+            ],
+            [
+              "Mythic",
+              "Collect every Mythic artifacts (No Events)",
+              "No Events tag",
+              "Permanent collection track"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "No Events in the badge names points to a standing collection track rather than a weekend-only checklist. Exact crate odds are not currently published."
+        ]
+      },
+      {
+        "id": "crate-rolls",
+        "heading": "How to Get Artifact Crate Rolls",
+        "intro": "Artifact Crate Roll Fruit Zombie Survival rewards are currently listed on active codes.",
+        "table": {
+          "caption": "Code-based Artifact Crate Rolls",
+          "columns": [
+            "Code",
+            "Listed reward",
+            "Priority"
+          ],
+          "rows": [
+            [
+              "w0w8kCCU",
+              "1 Artifact Crate Roll with x2 Luck",
+              "Redeem early"
+            ],
+            [
+              "1kDiscordGG",
+              "1 Artifact Crate Roll",
+              "Redeem next"
+            ],
+            [
+              "Up5ndc0ming",
+              "1 Artifact Crate Roll",
+              "Redeem before expiry risk"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Redeem these on the codes page, then open rolls when you can compare the result against your current fruit and wave goal."
+        ],
+        "links": [
+          {
+            "label": "Redeem artifact codes",
+            "slug": "codes",
+            "description": "Copy crate-roll codes with one click."
+          }
+        ]
+      },
+      {
+        "id": "collection-badges",
+        "heading": "Artifact Collection Badges",
+        "intro": "Use the rarity badges as your Fruit Zombie Survival artifacts guide checklist.",
+        "paragraphs": [
+          "Finish Common and Uncommon understanding first so you learn whether artifacts are account gear, run drops, or shop items in your client. Then push Rare through Mythic while your wave clears are stable.",
+          "There is also a limited badge for Unlock Every Kitsune artifacts. Treat that as a parallel event track beside the standard Common–Mythic sets."
+        ]
+      },
+      {
+        "id": "artifact-slots",
+        "heading": "Artifact Slots",
+        "intro": "Extra artifact wear slots appear in the Roblox Store so you can equip more than one artifact at a time.",
+        "paragraphs": [
+          "Check the live Store tab for current slot products and Robux prices before buying. Slots are not the same thing as completing a rarity set badge.",
+          "Do not buy multiple paid slots on a brand-new account that still owns zero artifacts. Earn a few pieces from crate rolls first, then decide whether more wear slots change your clear."
+        ]
+      },
+      {
+        "id": "fit-with-fruits-builds",
+        "heading": "How Artifacts Fit With Fruits and Builds",
+        "intro": "A Fruit Zombie Survival artifact should support your Devil Fruit role, not replace it.",
+        "paragraphs": [
+          "If your fruit already clears waves, prefer artifact outcomes that improve survivability. If your fruit is durable but weak on bosses, look for pieces that help single-target pressure.",
+          "Named artifact stats and set bonuses are not published in the sources checked on 2026-09-14. Compare each drop by how it changes Wave 25–50 consistency.",
+          "Fruit Zombie Survival Artifacts should be judged by the same practical questions as fruits: did Wave 25 get easier, did boss spikes feel safer, and did co-op revives become more realistic? If a piece does none of those, keep collecting it for the badge but do not force it into every loadout."
+        ],
+        "links": [
+          {
+            "label": "Tier List",
+            "slug": "tier-list",
+            "description": "Pick the fruit role artifacts should reinforce."
+          },
+          {
+            "label": "Fruits guide",
+            "slug": "fruits",
+            "description": "Keep collection goals aligned with gear."
+          }
+        ]
+      },
+      {
+        "id": "best-ways-to-use",
+        "heading": "Best Ways to Use New Artifacts",
+        "steps": [
+          {
+            "heading": "Redeem crate codes",
+            "description": "Secure Artifact Crate Rolls while they are listed as active."
+          },
+          {
+            "heading": "Identify your failure point",
+            "description": "Dying to packs, losing bosses, or stalling before Berry upgrades?"
+          },
+          {
+            "heading": "Equip and test one change",
+            "description": "Change one artifact variable per run so you know what helped."
+          },
+          {
+            "heading": "Tick rarity badges",
+            "description": "Update Common through Mythic collection progress after each new piece."
+          }
+        ],
+        "links": [
+          {
+            "label": "How to Play",
+            "slug": "how-to-play",
+            "description": "Stabilize basics before over-optimizing gear."
+          }
+        ],
+        "paragraphs": [
+          "Keep Fruit Zombie Survival Artifacts tied to your current fruit plan. If you just unlocked a new fruit for Collect 10, test that fruit first with a basic artifact setup before chasing Mythic completion on a weak clear."
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Artifact rarity and limited tracks on this page come from live Roblox badges; crate rolls come from current code lists.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official experience: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Badges checked 2026-09-14: Collect every Common/Uncommon/Rare/Epic/Legendary/Mythic artifacts (No Events), Unlock Every Kitsune artifacts (Limited)",
+              "Codes cross-checked for Artifact Crate Roll rewards"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are artifacts in Fruit Zombie Survival?",
+        "answer": "Fruit Zombie Survival Artifacts are a collection and gear layer with official Common through Mythic completion badges, plus crate-roll rewards from codes."
+      },
+      {
+        "question": "How do you get Artifact Crate Rolls?",
+        "answer": "Redeem current codes that list Artifact Crate Rolls, including the x2 Luck roll on w0w8kCCU."
+      },
+      {
+        "question": "Can codes give Artifact Crate Rolls?",
+        "answer": "Yes. Multiple active Fruit Zombie Survival codes currently list Artifact Crate Rolls."
+      },
+      {
+        "question": "Do artifacts replace Devil Fruits?",
+        "answer": "No. Artifacts support progression around your fruit. Fruits remain the core power unlock."
+      },
+      {
+        "question": "What is the best artifact?",
+        "answer": "Choose the piece that fixes your main run weakness. Named stats are not published in the badge sources checked on 2026-09-14."
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "fruits",
+      "tier-list",
+      "how-to-play"
+    ],
+    "lastReviewed": "2026-09-14"
+  },
+  {
+    "enabled": true,
+    "slug": "fruits",
+    "pageType": "database",
+    "navLabel": "Fruits",
+    "title": "Fruit Zombie Survival Fruits Guide & Tier Tips (2026)",
+    "description": "Explore all known Fruit Zombie Survival fruits, how Devil Fruits work, how to unlock and compare them, and which fruit roles fit waves, bosses, and co-op.",
+    "keywords": [
+      "Fruit Zombie Survival Fruits",
+      "Fruit Zombie Survival Devil Fruits",
+      "Fruit Zombie Survival fruit list",
+      "Fruit Zombie Survival fruits guide",
+      "Fruit Zombie Survival best fruits",
+      "how to get fruits in Fruit Zombie Survival",
+      "Fruit Zombie Survival 20 fruits"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Fruits",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival Devil Fruits",
+      "Fruit Zombie Survival fruit list",
+      "Fruit Zombie Survival fruits guide",
+      "Fruit Zombie Survival best fruits",
+      "how to get fruits in Fruit Zombie Survival",
+      "Fruit Zombie Survival 20 fruits"
+    ],
+    "searchIntent": "Understand the Fruit Zombie Survival Devil Fruits system, the 20-fruit collection goal, how to unlock and compare fruits, and where to find rankings.",
+    "priority": "P1",
+    "navVisible": true,
+    "wordCountTarget": 1700,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Fruits",
+        "min": 0.8,
+        "max": 3.5
+      },
+      {
+        "term": "Fruit Zombie Survival Devil Fruits",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival fruits guide",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival 20 fruits",
+        "min": 0.08,
+        "max": 1.2
+      }
+    ],
+    "hero": {
+      "eyebrow": "Collection + unlock guide",
+      "heading": "Fruit Zombie Survival Fruits Guide",
+      "lead": "Fruit Zombie Survival Fruits are the core power system: eat a Devil Fruit to unlock its power, and work toward the advertised 20-fruit collection. Official Roblox badges track Collect 5 / 10 / 15 / 20, Fruit Maniac, and limited Kitsune unlocks."
+    },
+    "sections": [
+      {
+        "id": "quick-guide",
+        "heading": "Fruit Zombie Survival Fruits – Confirmed Fruit List",
+        "intro": "Fruit Zombie Survival officially advertises 20 collectible fruits. The table below lists the fruit names we could confirm from current Roblox data, plus the collection badges that track the full roster.",
+        "paragraphs": [
+          "Use the confirmed rows first, then open the live fruit shop for every remaining on-screen name and price. Detailed evaluation guidance lives on the Fruit Zombie Survival Tier List.",
+          "This Fruit Zombie Survival Fruits guide is the collection desk for the Fruit Zombie Survival 20 fruits goal. Come back after every unlock so Collect badges and Fruit Maniac stay aligned."
+        ],
+        "table": {
+          "caption": "Confirmed Fruit Zombie Survival fruit facts (2026-09-14)",
+          "columns": [
+            "Fact",
+            "Detail",
+            "What to do next"
+          ],
+          "rows": [
+            [
+              "Roster size",
+              "20 fruits to collect (official description)",
+              "Track owned fruits toward Collect 20"
+            ],
+            [
+              "Power unlock",
+              "Eat a Devil Fruit to unlock its power",
+              "Learn every skill for Fruit Maniac"
+            ],
+            [
+              "Collection badges",
+              "Collect 5 / 10 / 15 / 20 different fruits",
+              "Prioritize missing fruits over duplicates"
+            ],
+            [
+              "Skill mastery badge",
+              "Fruit Maniac: test every ability of every fruit",
+              "Press each skill after every unlock"
+            ],
+            [
+              "Limited named fruit",
+              "Unlock Kitsune Fruit ! (Limited)",
+              "Check event/limited availability"
+            ],
+            [
+              "Limited shiny fruit",
+              "Unlock Shiny Kitsune Fruit ! (Limited)",
+              "Completion goal after base Kitsune"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-devil-fruits-work",
+        "heading": "How Devil Fruits Work",
+        "intro": "Fruit Zombie Survival Devil Fruits define your combat identity for each run.",
+        "paragraphs": [
+          "Eating a fruit unlocks its power. That power sits beside character builds, Berries, and artifacts as part of a full loadout. Fruit Zombie Survival Fruits are not cosmetic badges only — they change how you clear waves and handle bosses.",
+          "After each unlock, press every skill at least once. Fruit Maniac specifically asks you to test every ability of every fruit, so inventory ownership alone is not enough.",
+          "Fruit Zombie Survival Devil Fruits remain the main combat identity even after artifacts arrive. Keep learning the fruit kit before spending heavily on optional Store skips."
+        ]
+      },
+      {
+        "id": "how-many-fruits",
+        "heading": "How Many Fruits Are in Fruit Zombie Survival?",
+        "intro": "The Fruit Zombie Survival 20 fruits target is confirmed on the official Roblox description and reinforced by Collect 20.",
+        "paragraphs": [
+          "Collect 5, Collect 10, Collect 15, and Collect 20 are all live badges, so the collection ladder is real account progression rather than flavor text.",
+          "Limited Kitsune badges sit beside that ladder. Treat limited fruits as extra unlock tracks, and confirm whether they count toward Collect 20 inside your live client."
+        ]
+      },
+      {
+        "id": "fruit-list-known-details",
+        "heading": "Confirmed Fruit Names and Collection Notes",
+        "intro": "Named fruit data currently confirmed from Roblox badge text, plus the live shop for the remaining roster.",
+        "table": {
+          "caption": "Named Fruit Zombie Survival fruits confirmed so far",
+          "columns": [
+            "Fruit",
+            "Status",
+            "Evidence",
+            "Best use note"
+          ],
+          "rows": [
+            [
+              "Kitsune",
+              "Limited unlock",
+              "Badge: Unlock Kitsune Fruit ! (Limited)",
+              "Check first when limited content is live"
+            ],
+            [
+              "Shiny Kitsune",
+              "Limited unlock",
+              "Badge: Unlock Shiny Kitsune Fruit ! (Limited)",
+              "Follow-up completion unlock"
+            ],
+            [
+              "Remaining shop fruits",
+              "Visible in live fruit shop",
+              "Official 20-fruit collection target",
+              "Open shop for current names and costs"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Confirmed named fruits from current Roblox badges: Kitsune and Shiny Kitsune. The remaining names from the advertised 20-fruit collection appear in the live fruit shop UI.",
+          "Fruit Zombie Survival is a separate game from Blox Fruits, so rankings and movesets are not interchangeable."
+        ]
+      },
+      {
+        "id": "fruit-rarities",
+        "heading": "Fruit Rarities",
+        "intro": "Artifact badges prove the game uses Common, Uncommon, Rare, Epic, Legendary, and Mythic labels. Fruit shop rarity bands should be read from the live shop UI.",
+        "paragraphs": [
+          "When the shop highlights a rarity band, use that label to plan Diamonds or Robux spends. Do not assume artifact rarity odds equal fruit unlock odds.",
+          "If you are chasing Collect badges, a cheaper missing fruit usually beats an expensive duplicate of a rarity you already own."
+        ]
+      },
+      {
+        "id": "how-to-get-fruits",
+        "heading": "How to Unlock Fruits",
+        "intro": "Fruit Zombie Survival Fruits unlock through the in-game fruit flow, with Diamonds as a key progression currency and optional Robux purchases in the Store.",
+        "paragraphs": [
+          "Stock Diamonds from codes, hidden Diamond pickups, and regular play before buying skips. Official game passes also include 2x Diamonds at 499 Robux if you already farm Diamonds often.",
+          "Limited Kitsune unlocks are separate badge tracks. Check whether they are currently obtainable before spending on other cosmetics or duplicates."
+        ],
+        "links": [
+          {
+            "label": "How to get Diamonds",
+            "slug": "diamonds",
+            "description": "Hidden Diamonds, codes, and the 2x Diamonds pass."
+          },
+          {
+            "label": "Active codes",
+            "slug": "codes",
+            "description": "Claim Diamond and crate rewards first."
+          }
+        ]
+      },
+      {
+        "id": "diamonds-vs-robux",
+        "heading": "Diamonds vs Robux Fruit Unlocks",
+        "intro": "Diamonds fund normal progression. Robux is the optional faster path through the Store.",
+        "paragraphs": [
+          "If a Store product unlocks the fruit you are looking at without spending Diamonds, treat that as a convenience purchase. Farm Diamonds first when you are still filling Collect 5 or Collect 10.",
+          "VIP at 299 Robux currently has no public description text, so do not assume it grants fruits. Berry Start at 149 Robux grants 2,000 Berries on new arena runs and does not replace fruit unlocks."
+        ]
+      },
+      {
+        "id": "how-to-choose",
+        "heading": "Which Fruit Should You Choose?",
+        "intro": "Choose Fruit Zombie Survival Fruits by badge goal first, then by wave or boss role.",
+        "steps": [
+          {
+            "heading": "Check limited Kitsune availability",
+            "description": "Evaluate Kitsune / Shiny Kitsune when those badges are obtainable."
+          },
+          {
+            "heading": "Fill the next Collect badge",
+            "description": "Unlock a fruit you do not own before buying duplicates."
+          },
+          {
+            "heading": "Match waves or bosses",
+            "description": "Keep a wide clear kit for wave badges and a stable kit for special bosses."
+          },
+          {
+            "heading": "Validate on the tier list",
+            "description": "Use the Fruit Zombie Survival Tier List for role ranking after you know what you own."
+          }
+        ],
+        "links": [
+          {
+            "label": "Open the Tier List",
+            "slug": "tier-list",
+            "description": "Named limited picks plus practical shop ranking."
+          },
+          {
+            "label": "Artifacts guide",
+            "slug": "artifacts",
+            "description": "Parallel collection layer with Common–Mythic badges."
+          }
+        ]
+      },
+      {
+        "id": "fruit-collection-badges",
+        "heading": "Fruit Collection Badges",
+        "intro": "These official badges are the cleanest progress tracker for Fruit Zombie Survival Fruits.",
+        "table": {
+          "caption": "Official fruit-related Roblox badges",
+          "columns": [
+            "Badge",
+            "What it proves",
+            "Player tip"
+          ],
+          "rows": [
+            [
+              "Collect 5 different fruits",
+              "Early collection gate",
+              "Prioritize unique unlocks"
+            ],
+            [
+              "Collect 10 different fruits",
+              "Mid collection gate",
+              "Stop buying duplicates"
+            ],
+            [
+              "Collect 15 different fruits",
+              "Late holes remain",
+              "Target missing rarities/names"
+            ],
+            [
+              "Collect 20 different fruits",
+              "Full advertised roster",
+              "Finish the 20-fruit goal"
+            ],
+            [
+              "Fruit Maniac",
+              "Every ability tested",
+              "Press all skills after each unlock"
+            ],
+            [
+              "Unlock Kitsune Fruit ! (Limited)",
+              "Named limited fruit",
+              "Event/limited track"
+            ],
+            [
+              "Unlock Shiny Kitsune Fruit ! (Limited)",
+              "Named shiny limited fruit",
+              "Completion track"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Fruit facts on this Fruit Zombie Survival fruits guide are anchored to the official experience and live Roblox badges.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official Roblox page: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Badges checked 2026-09-14: Collect 5/10/15/20, Fruit Maniac, Kitsune limited unlocks",
+              "Game passes checked 2026-09-14: 2x Diamonds (499), VIP (299), Berry Start (149)"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many fruits are in Fruit Zombie Survival?",
+        "answer": "The official page advertises 20 fruits to collect, and Collect 20 is a live Roblox badge."
+      },
+      {
+        "question": "How do Devil Fruits work?",
+        "answer": "Eat a Devil Fruit to unlock its power. Then test every skill so Fruit Maniac and real combat mastery both progress."
+      },
+      {
+        "question": "How do you get new fruits?",
+        "answer": "Use the in-game fruit shop/unlock flow with Diamonds as the main progression currency, and optional Robux Store products when you want to skip waits."
+      },
+      {
+        "question": "What is the best fruit?",
+        "answer": "Check Kitsune when limited unlocks are live, then unlock whichever missing fruit advances Collect 5 / 10 / 15 / 20 and fits your wave or boss goal. Combat S–D ranks stay provisional until live testing is stronger."
+      },
+      {
+        "question": "Is there a Fruit Zombie Survival fruit tier list?",
+        "answer": "Yes. Use this site’s Fruit Zombie Survival Tier List for current named limited picks and practical shop ranking."
+      }
+    ],
+    "relatedSlugs": [
+      "tier-list",
+      "diamonds",
+      "how-to-play",
+      "artifacts"
+    ],
+    "lastReviewed": "2026-09-14"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-play",
+    "pageType": "guide",
+    "navLabel": "How to Play",
+    "title": "How to Play Fruit Zombie Survival: Beginner Guide",
+    "description": "Learn how to play Fruit Zombie Survival on Roblox: choose a character, use Devil Fruits, spend Berries, survive zombie waves, beat bosses, and play co-op.",
+    "keywords": [
+      "How to Play Fruit Zombie Survival",
+      "Fruit Zombie Survival beginner guide",
+      "Fruit Zombie Survival guide",
+      "Fruit Zombie Survival how to play Roblox",
+      "Fruit Zombie Survival tips",
+      "Fruit Zombie Survival beginner tips",
+      "Fruit Zombie Survival walkthrough"
+    ],
+    "primaryKeyword": "How to Play Fruit Zombie Survival",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival beginner guide",
+      "Fruit Zombie Survival guide",
+      "Fruit Zombie Survival how to play Roblox",
+      "Fruit Zombie Survival tips",
+      "Fruit Zombie Survival beginner tips",
+      "Fruit Zombie Survival walkthrough"
+    ],
+    "searchIntent": "Help new players learn the Fruit Zombie Survival run loop, first actions, and how fruits, builds, Berries, waves, bosses, and co-op fit together.",
+    "priority": "P1",
+    "navVisible": true,
+    "wordCountTarget": 1500,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "How to Play Fruit Zombie Survival",
+        "min": 0.8,
+        "max": 3.5
+      },
+      {
+        "term": "Fruit Zombie Survival beginner guide",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival tips",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival guide",
+        "min": 0.08,
+        "max": 1.2
+      }
+    ],
+    "hero": {
+      "eyebrow": "Beginner walkthrough",
+      "heading": "How to Play Fruit Zombie Survival",
+      "lead": "How to Play Fruit Zombie Survival comes down to a repeatable run loop: join the Roblox experience, choose a character, unlock a Devil Fruit power, survive zombie waves, spend Berries, prepare for special bosses, and optionally co-op with friends. This How to Play Fruit Zombie Survival beginner path leads with a checklist so How to Play Fruit Zombie Survival never starts with a 300-word lore dump."
+    },
+    "sections": [
+      {
+        "id": "quick-steps",
+        "heading": "How to Play Fruit Zombie Survival – Quick Steps",
+        "intro": "First-run checklist for the Fruit Zombie Survival beginner guide. These steps use only confirmed systems and avoid unverified keybinds.",
+        "steps": [
+          {
+            "heading": "Join the correct Roblox experience",
+            "description": "Open the official Fruit Zombie Survival page from Vibed Games and enter the live experience."
+          },
+          {
+            "heading": "Choose a character",
+            "description": "Pick a One Piece character that can place special builds during the run."
+          },
+          {
+            "heading": "Unlock a Devil Fruit power",
+            "description": "Eat or activate a Devil Fruit so your combat identity is ready before pressure spikes."
+          },
+          {
+            "heading": "Learn your power early",
+            "description": "Use the opening waves to understand range, timing, and survival tools before the lobby gets chaotic."
+          },
+          {
+            "heading": "Fight zombie waves",
+            "description": "Treat endless waves as the main clock of the run and protect your positioning."
+          },
+          {
+            "heading": "Farm and spend Berries",
+            "description": "Collect Berries during the run and power up before the next spike."
+          },
+          {
+            "heading": "Prepare for special bosses",
+            "description": "Save focus and survivability for boss moments inside the wave structure."
+          },
+          {
+            "heading": "Add friends or push leaderboards",
+            "description": "Team up with up to four friends when ready, then improve consistency across runs."
+          }
+        ],
+        "paragraphs": [
+          "If you only remember one Fruit Zombie Survival walkthrough idea, remember this: learn the loop before you obsess over perfect rankings. Codes and Diamonds help, but they cannot replace basic wave awareness.",
+          "Print or screenshot this How to Play Fruit Zombie Survival checklist for your first night. Repeating How to Play Fruit Zombie Survival fundamentals for a few runs creates better habits than jumping straight into advanced theory.",
+          "Parents and newer Roblox players can follow this How to Play Fruit Zombie Survival path without needing outside spreadsheets. Clear How to Play Fruit Zombie Survival steps beat vague “get good” advice.",
+          "Repeat this How to Play Fruit Zombie Survival loop until Wave 10 feels comfortable. A stable How to Play Fruit Zombie Survival foundation makes codes, Diamonds, and fruit collection much easier to use."
+        ]
+      },
+      {
+        "id": "first-fruit-and-character",
+        "heading": "Your First Fruit and Character",
+        "intro": "Your first session of How to Play Fruit Zombie Survival should prioritize readable tools over theorycrafting.",
+        "paragraphs": [
+          "Choose a character and fruit combination you can understand quickly. Special builds from One Piece characters add a placement layer, while the Devil Fruit defines how you personally fight. If either system feels confusing, slow down in early waves and practice one decision at a time.",
+          "A good Fruit Zombie Survival beginner guide rule is to separate identity from optimization. Identity means “what power am I actually using?” Optimization means tier lists, artifacts, and Diamond spending. Get identity stable first.",
+          "After the first successful learning runs, open the fruits guide and tier list to refine role fit. That order prevents brand-new players from bouncing between menus while the horde deletes them.",
+          "If a friend asks for How to Play Fruit Zombie Survival in one sentence, tell them to learn fruit and build tools before optimizing currencies. That is the spine of this How to Play Fruit Zombie Survival guide.",
+          "Streaming a How to Play Fruit Zombie Survival session? Show the checklist on screen first. Viewers learn How to Play Fruit Zombie Survival faster when the loop is visible."
+        ],
+        "links": [
+          {
+            "label": "Fruits Guide",
+            "slug": "fruits",
+            "description": "Understand Devil Fruit roles after your first sessions."
+          },
+          {
+            "label": "Tier List",
+            "slug": "tier-list",
+            "description": "Compare role fit once you know the run loop."
+          }
+        ]
+      },
+      {
+        "id": "waves-and-bosses",
+        "heading": "How Zombie Waves and Bosses Work",
+        "intro": "Endless zombie waves are the backbone of Fruit Zombie Survival. Special bosses appear inside that structure and change the threat profile.",
+        "paragraphs": [
+          "Endless zombie waves are the backbone of Fruit Zombie Survival. Special bosses appear inside that structure and change the threat profile.",
+          "Official badges track Wave 10, 25, 50, 100, and 500, so wave progress is a real success metric. Use Wave 10 as your first clear target, then stretch toward Wave 25 and Wave 50.",
+          "When the fight feel changes, shift from farming tempo to survival and focused output. Complete Dressrosa also matters later because it unlocks Baratie for more routes and Diamond pickups."
+        ]
+      },
+      {
+        "id": "berries-during-run",
+        "heading": "How to Use Berries During a Run",
+        "intro": "Berries are the confirmed in-run power-up resource in Fruit Zombie Survival.",
+        "paragraphs": [
+          "Farm Berries while waves are manageable, then spend them to power up before the lobby becomes unstable. Holding Berries too long can leave you underleveled for a boss spike. Spending too wildly with no plan can also waste tempo if you ignore positioning.",
+          "Berries are not Diamonds. Berries support the current run. Diamonds appear in code rewards and broader account progression conversations. Keeping that distinction clear is one of the most important Fruit Zombie Survival tips for new accounts.",
+          "If you are learning How to Play Fruit Zombie Survival with friends, assign one player to call Berry timing so the whole team powers up before hard spikes rather than mid-wipe.",
+          "Berry timing belongs in every How to Play Fruit Zombie Survival session plan. Pair that habit with Fruit Zombie Survival tips from the Diamonds page so you never spend the wrong resource."
+        ],
+        "links": [
+          {
+            "label": "Diamonds vs run resources",
+            "slug": "diamonds",
+            "description": "Avoid confusing Diamonds with Berries."
+          }
+        ]
+      },
+      {
+        "id": "solo-vs-coop",
+        "heading": "Solo vs Co-op: What Changes?",
+        "intro": "Fruit Zombie Survival supports solo learning and co-op with up to four friends.",
+        "paragraphs": [
+          "Solo runs demand self-sufficient fruits and safer positioning because nobody else can cover your mistakes. Co-op runs allow role specialization, faster recoveries, and more ambitious wave goals, especially once your group understands boss callouts.",
+          "Global leaderboards add a longer-term reason to refine both modes. Do not treat every beginner session as a ranking attempt. Use early runs to build habits, then push leaderboard consistency after your Fruit Zombie Survival guide fundamentals feel automatic.",
+          "A revive from codes is especially valuable for solo beginners. Redeem it early, but still play as if you need to survive without it."
+        ],
+        "links": [
+          {
+            "label": "Redeem beginner-friendly codes",
+            "slug": "codes",
+            "description": "Grab revives, Diamonds, and crate rolls before harder pushes."
+          }
+        ]
+      },
+      {
+        "id": "beginner-mistakes",
+        "heading": "Beginner Mistakes to Avoid",
+        "intro": "These Fruit Zombie Survival beginner tips prevent the most common early frustration loops.",
+        "paragraphs": [
+          "Avoiding those mistakes matters more than memorizing a long Fruit Zombie Survival walkthrough full of outdated screenshots. Clean habits scale into every later guide on this site.",
+          "Most failed How to Play Fruit Zombie Survival attempts come from skipping fundamentals. Fix the checklist first, then use the broader Fruit Zombie Survival guide cluster for codes, fruits, and rankings."
+        ],
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Skipping codes and starting broke on Diamonds, revives, or crate rolls",
+              "Treating Berries and Diamonds as the same currency",
+              "Ignoring special bosses until the wipe animation starts",
+              "Copying fruit rankings from unrelated Roblox games",
+              "Spending premium resources before understanding your run failure point",
+              "Joining co-op without agreeing who covers wave clear versus boss focus"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "after-first-runs",
+        "heading": "What to Do After Your First Runs",
+        "intro": "Once How to Play Fruit Zombie Survival feels familiar, follow this real progression path using current Roblox milestones.",
+        "steps": [
+          {
+            "heading": "Secure first fruit power",
+            "description": "Eat/unlock a Devil Fruit and learn its skills before chasing hard waves."
+          },
+          {
+            "heading": "Hit Wave 10",
+            "description": "Use Wave 10 as your first official milestone badge goal."
+          },
+          {
+            "heading": "Redeem codes",
+            "description": "Claim Diamonds, revives, and Artifact Crate Rolls while they are active."
+          },
+          {
+            "heading": "Bank Diamonds and hidden pickups",
+            "description": "Sweep Dressrosa, unlock Baratie, and fund the next fruit."
+          },
+          {
+            "heading": "Push fruit collection",
+            "description": "Work Collect 5 / 10 / 15 / 20 and Fruit Maniac."
+          },
+          {
+            "heading": "Add artifacts",
+            "description": "Use crate rolls and start Common through Mythic collection badges."
+          }
+        ],
+        "links": [
+          {
+            "label": "Codes",
+            "slug": "codes",
+            "description": "Claim current rewards."
+          },
+          {
+            "label": "Diamonds",
+            "slug": "diamonds",
+            "description": "Spend carefully."
+          },
+          {
+            "label": "Fruits",
+            "slug": "fruits",
+            "description": "Understand Devil Fruit roles."
+          },
+          {
+            "label": "Tier List",
+            "slug": "tier-list",
+            "description": "Compare best-fit roles."
+          },
+          {
+            "label": "Artifacts",
+            "slug": "artifacts",
+            "description": "Use crate rewards intelligently."
+          }
+        ],
+        "paragraphs": [
+          "That order keeps beginner momentum high: wave badge proof, free rewards, currency, fruit completion, then artifact depth."
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "This How to Play Fruit Zombie Survival page is built from official systems facts and current reward context.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official Roblox game page: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Wave milestone badges shown on the official experience page",
+              "Codes page cross-checks for beginner rewards such as revives and Diamonds"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the goal of Fruit Zombie Survival?",
+        "answer": "Survive endless zombie waves for as long as possible using Devil Fruit powers, character builds, and Berries, while handling special bosses and optionally competing on leaderboards."
+      },
+      {
+        "question": "Is Fruit Zombie Survival hard for beginners?",
+        "answer": "It can be demanding because waves escalate and bosses spike pressure, but a clear Fruit Zombie Survival beginner guide plus early codes makes the learning curve much smoother."
+      },
+      {
+        "question": "Can you play Fruit Zombie Survival with friends?",
+        "answer": "Yes. You can team up with up to four friends for co-op runs."
+      },
+      {
+        "question": "How many fruits are there?",
+        "answer": "The official page advertises 20 fruits to collect."
+      },
+      {
+        "question": "What should I do first after joining?",
+        "answer": "Learn your fruit and character tools, survive early waves, farm Berries, then redeem codes and review the fruits and Diamonds guides before heavy optimization."
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "fruits",
+      "diamonds",
+      "tier-list",
+      "artifacts"
+    ],
+    "lastReviewed": "2026-09-14"
+  },
+  {
+    "enabled": true,
+    "slug": "diamonds",
+    "pageType": "guide",
+    "navLabel": "Diamonds",
+    "title": "Fruit Zombie Survival Diamonds: How to Get Them Fast",
+    "description": "Learn how to get Diamonds in Fruit Zombie Survival, what Diamonds are used for, which farming methods are verified, and how codes can boost your balance.",
+    "keywords": [
+      "Fruit Zombie Survival Diamonds",
+      "how to get Diamonds in Fruit Zombie Survival",
+      "Fruit Zombie Survival Diamonds fast",
+      "Fruit Zombie Survival Diamond guide",
+      "Fruit Zombie Survival Diamond farming",
+      "Fruit Zombie Survival codes Diamonds"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Diamonds",
+    "secondaryKeywords": [
+      "how to get Diamonds in Fruit Zombie Survival",
+      "Fruit Zombie Survival Diamonds fast",
+      "Fruit Zombie Survival Diamond guide",
+      "Fruit Zombie Survival Diamond farming",
+      "Fruit Zombie Survival codes Diamonds"
+    ],
+    "searchIntent": "Learn what Fruit Zombie Survival Diamonds are, how to get them, which methods are verified, how codes help, and how to avoid wasting them.",
+    "priority": "P1",
+    "navVisible": true,
+    "wordCountTarget": 1600,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Diamonds",
+        "min": 0.8,
+        "max": 3.5
+      },
+      {
+        "term": "how to get Diamonds in Fruit Zombie Survival",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival Diamond farming",
+        "min": 0.08,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival codes Diamonds",
+        "min": 0.08,
+        "max": 1.2
+      }
+    ],
+    "hero": {
+      "eyebrow": "Currency + farming guide",
+      "heading": "Fruit Zombie Survival Diamonds Guide",
+      "lead": "Quick answer: redeem Diamond codes first, collect all hidden Diamonds on Dressrosa and then Baratie, use run rewards from waves and bosses, and turn on 2x Diamonds (499 Robux) only if you already farm pickups often. Fruit Zombie Survival Diamonds are separate from Berries."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "How to Get Diamonds in Fruit Zombie Survival",
+        "intro": "This is the direct method table for Fruit Zombie Survival Diamonds. Start at the top and move down.",
+        "table": {
+          "caption": "Diamond methods checked 2026-09-14",
+          "columns": [
+            "Method",
+            "Repeatable?",
+            "Speed",
+            "Requirement",
+            "Notes"
+          ],
+          "rows": [
+            [
+              "Redeem Disc0rd / FiveKCcU codes",
+              "One-time per code",
+              "Fastest first boost",
+              "In-game Settings redeem",
+              "1.5k and 2.5k Diamonds listed active"
+            ],
+            [
+              "Collect all hidden Diamonds",
+              "Mostly exploration / session hunt",
+              "Fast early game",
+              "Map pickup route",
+              "Official badge: Collect all hidden diamonds"
+            ],
+            [
+              "Dressrosa → Baratie route",
+              "Yes, across maps",
+              "Medium",
+              "Complete Dressrosa badge",
+              "Badge text: you can now access the Baratie"
+            ],
+            [
+              "Wave / boss run rewards",
+              "Yes",
+              "Medium",
+              "Play survival runs",
+              "Confirm the Diamond total on your Run Over screen"
+            ],
+            [
+              "2x Diamonds game pass",
+              "Passive multiplier",
+              "Speeds all Diamond gains",
+              "499 Robux",
+              "Official pass: 2x Diamonds"
+            ],
+            [
+              "Hold 100,000 Diamonds",
+              "Milestone goal",
+              "Long-term",
+              "Banking discipline",
+              "Official badge: Richer than rich"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "If you only came for Fruit Zombie Survival Diamonds advice, finish codes and hidden Diamonds before anything else. That is the fastest honest start for Fruit Zombie Survival Diamonds on a new account."
+        ]
+      },
+      {
+        "id": "fastest-methods",
+        "heading": "Fastest Diamond Methods",
+        "intro": "For how to get Diamonds in Fruit Zombie Survival quickly, combine one-time codes with hidden pickups before grinding long sessions.",
+        "paragraphs": [
+          "New accounts should redeem Diamond codes the same day, then spend the first runs walking Dressrosa for hidden Diamonds instead of only standing in spawn. After Complete Dressrosa unlocks Baratie, repeat the pickup habit on the new layout.",
+          "Once both maps are scanned, use regular wave and boss clears for steady income. Exact per-run Diamond totals can vary by route and current version, so trust the Run Over screen more than any old screenshot.",
+          "Fruit Zombie Survival codes Diamonds should be claimed the same day you open the game. After that, Fruit Zombie Survival Diamond farming becomes a map-and-run habit rather than a one-time boost."
+        ],
+        "steps": [
+          {
+            "heading": "Redeem Diamond codes",
+            "description": "Claim Disc0rd and FiveKCcU, then finish the rest of the codes list."
+          },
+          {
+            "heading": "Sweep hidden Diamonds",
+            "description": "Hunt pickups for the Collect all hidden diamonds badge before waves get chaotic."
+          },
+          {
+            "heading": "Unlock Baratie via Dressrosa",
+            "description": "Complete Dressrosa so the Baratie route becomes available for more exploration."
+          },
+          {
+            "heading": "Farm efficient runs",
+            "description": "Clear waves/bosses, bank Diamonds, and only then consider the 2x Diamonds pass."
+          }
+        ]
+      },
+      {
+        "id": "hidden-diamonds",
+        "heading": "Hidden Diamonds",
+        "intro": "Hidden Diamonds are real: Roblox lists a Collect all hidden diamonds badge for Fruit Zombie Survival.",
+        "paragraphs": [
+          "Start on Dressrosa and search walls, props, and side routes instead of only following the horde path. After you earn Complete Dressrosa, move the same habit to Baratie.",
+          "In co-op, assign one player to pickups so the kite player is not also the scavenger. Hidden Diamonds pair well with Fruit Zombie Survival Diamond farming because they front-load currency before shop unlocks."
+        ]
+      },
+      {
+        "id": "codes-that-give-diamonds",
+        "heading": "Diamond Codes",
+        "intro": "Fruit Zombie Survival codes Diamonds are the easiest first spike.",
+        "table": {
+          "caption": "Diamond-focused codes (2026-09-14)",
+          "columns": [
+            "Code",
+            "Reward",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Disc0rd",
+              "1.5k Diamonds",
+              "Reported active"
+            ],
+            [
+              "FiveKCcU",
+              "2.5k Diamonds",
+              "Reported active"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Other codes may grant gems, revives, or Artifact Crate Rolls instead of Diamonds. Use the full codes page for copy buttons and redemption steps."
+        ],
+        "links": [
+          {
+            "label": "Full codes list",
+            "slug": "codes",
+            "description": "Copy every active reward, not only Diamond codes."
+          }
+        ]
+      },
+      {
+        "id": "two-x-pass",
+        "heading": "2x Diamonds Gamepass",
+        "intro": "The official 2x Diamonds pass costs 499 Robux and is currently for sale on the universe game-pass list.",
+        "paragraphs": [
+          "Buy it after you already know your hidden-Diamond route and run loop. A multiplier does nothing if you are not collecting Diamonds yet.",
+          "VIP costs 299 Robux but has no public description text, so do not treat VIP as a Diamond farm substitute. Berry Start costs 149 Robux and grants 2,000 Berries on new arena runs, which is a Berries bonus rather than a Diamond bonus."
+        ]
+      },
+      {
+        "id": "what-diamonds-are-used-for",
+        "heading": "What Diamonds Are Used For",
+        "intro": "Fruit Zombie Survival Diamonds mainly support long-term account progression such as fruit unlocks and collection goals.",
+        "paragraphs": [
+          "Spend Diamonds on missing fruits that advance Collect 5 / 10 / 15 / 20 before buying duplicates. If you are close to Fruit Maniac, prioritize unlocks you have not skill-tested yet.",
+          "Richer than rich requires holding 100,000 Diamonds at once, so keep a banking plan if that badge is your flex goal."
+        ],
+        "links": [
+          {
+            "label": "Fruits unlock guide",
+            "slug": "fruits",
+            "description": "Spend Diamonds into collection progress."
+          },
+          {
+            "label": "Tier List",
+            "slug": "tier-list",
+            "description": "Choose which missing fruit to fund first."
+          }
+        ]
+      },
+      {
+        "id": "best-farming-route",
+        "heading": "Best Diamond Farming Routine",
+        "intro": "Use this Fruit Zombie Survival Diamond farming routine after codes are claimed.",
+        "steps": [
+          {
+            "heading": "Lobby prep",
+            "description": "Redeem codes, note your Diamond balance, and decide whether Collect badges or fruit unlocks are the spend target."
+          },
+          {
+            "heading": "Dressrosa sweep",
+            "description": "Grab hidden Diamonds early, then play waves without ignoring side pickups."
+          },
+          {
+            "heading": "Unlock Baratie",
+            "description": "Finish Complete Dressrosa and repeat pickup checks on Baratie."
+          },
+          {
+            "heading": "Repeat efficient clears",
+            "description": "Run waves/bosses, read the Run Over Diamond total, and reset cleanly for the next loop."
+          },
+          {
+            "heading": "Optional multiplier",
+            "description": "Add 2x Diamonds only after the route feels automatic."
+          }
+        ],
+        "paragraphs": [
+          "This routine stays honest about variable payouts while still giving a full loop you can execute today."
+        ]
+      },
+      {
+        "id": "diamonds-vs-berries",
+        "heading": "Diamonds vs Berries",
+        "intro": "Mixing up Fruit Zombie Survival Diamonds and Berries creates bad spends.",
+        "table": {
+          "caption": "Diamonds versus Berries",
+          "columns": [
+            "Resource",
+            "Official signal",
+            "Use it for"
+          ],
+          "rows": [
+            [
+              "Diamonds",
+              "Richer than rich badge + Diamond codes + hidden Diamonds badge",
+              "Long-term unlocks and banking"
+            ],
+            [
+              "Berries",
+              "So much berries badge + official run power-up description",
+              "In-run power during a session"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Berries power the current run. Diamonds power the account. Berry Start helps Berries; 2x Diamonds helps Diamonds."
+        ]
+      },
+      {
+        "id": "mistakes-to-avoid",
+        "heading": "Diamond Farming Mistakes to Avoid",
+        "intro": "Avoid these common Fruit Zombie Survival Diamonds mistakes.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Skipping Diamond codes until they expire",
+              "Ignoring hidden Diamonds before hard waves",
+              "Buying 2x Diamonds before you know a route",
+              "Spending Diamonds on duplicate fruits while Collect badges are incomplete",
+              "Treating Berries and Diamonds as the same wallet"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Diamond methods on this page are tied to live Roblox badges, game passes, and current code lists.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official experience: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Badges checked 2026-09-14: Collect all hidden diamonds, Richer than rich, Complete Dressrosa, So much berries",
+              "Game pass checked 2026-09-14: 2x Diamonds for 499 Robux",
+              "Codes cross-checked against current September 2026 lists"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you get Diamonds in Fruit Zombie Survival?",
+        "answer": "Redeem Diamond codes, collect hidden Diamonds on Dressrosa and Baratie, earn Diamonds from survival runs, and optionally use the 2x Diamonds pass."
+      },
+      {
+        "question": "Which codes give Diamonds?",
+        "answer": "As of 2026-09-14, Disc0rd lists 1.5k Diamonds and FiveKCcU lists 2.5k Diamonds."
+      },
+      {
+        "question": "Are Diamonds the same as Berries?",
+        "answer": "No. Berries are in-run power-ups. Fruit Zombie Survival Diamonds are the longer-term currency tracked by badges like Richer than rich."
+      },
+      {
+        "question": "What should I spend Diamonds on?",
+        "answer": "Missing fruits that advance Collect badges and your current wave or boss plan. Avoid duplicates until collection goals are healthy."
+      },
+      {
+        "question": "What is the fastest Diamond farm?",
+        "answer": "Codes plus hidden Diamonds are the fastest start. After that, repeat efficient Dressrosa/Baratie runs and add 2x Diamonds only if you already farm consistently."
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "fruits",
+      "how-to-play",
+      "tier-list"
+    ],
+    "lastReviewed": "2026-09-14"
+  }
+]

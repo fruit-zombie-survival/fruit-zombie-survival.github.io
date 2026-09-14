@@ -1,0 +1,148 @@
+{
+  "gameName": "Fruit Zombie Survival",
+  "pages": [
+    {
+      "slug": "",
+      "primaryKeyword": "Fruit Zombie Survival",
+      "topResultTypes": [
+        "inner-page",
+        "inner-page",
+        "video",
+        "video",
+        "video",
+        "video",
+        "inner-page",
+        "inner-page"
+      ],
+      "homepageVsInnerRatio": "0/10 homepage-like",
+      "commonTitlePatterns": [
+        "Fruit Zombie Survival Codes (September 2026)",
+        "Fruit Zombie Survival Codes (September 2026) [Artifacts]",
+        "Fruit Zombie Survival GUIDE! (Best Classes, Get Diamonds ...",
+        "Fruit Zombie Survival Guide! (Codes, Get Gems Fast, Best ...",
+        "4 NEW CODES & HOW TO PLAY! | Fruit Zombie Survival ..."
+      ],
+      "commonModules": [
+        "Fruit Zombie Survival overview",
+        "Practical details",
+        "Sources"
+      ],
+      "firstScreenAnswer": "Top results emphasize: Fruit Zombie Survival Codes (September 2026)",
+      "contentGaps": [
+        "Clear confirmed vs unknown labeling",
+        "Fresh last-checked / last-reviewed date",
+        "Fast routes into independent child intents"
+      ],
+      "incrementalValue": "Sourced, intent-dedicated page with clearer structure than generic roundups.",
+      "cannibalizationRiskWith": [],
+      "overlapScore": 0,
+      "evidenceType": "dataforseo",
+      "videoIntent": "dominant",
+      "videoResults": [
+        {
+          "url": "https://m.youtube.com/watch?v=n26DrIkfkXw",
+          "title": "Fruit Zombie Survival GUIDE! (Best Classes, Get Diamonds ...",
+          "rank": 3
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=lYRSU8S9qZI",
+          "title": "Fruit Zombie Survival Guide! (Codes, Get Gems Fast, Best ...",
+          "rank": 4
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=46z26vvlO9E",
+          "title": "4 NEW CODES & HOW TO PLAY! | Fruit Zombie Survival ...",
+          "rank": 5
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=yGS64d6hLJ4",
+          "title": "Fruit Zombie Survival Roblox Best Way to Get Diamonds Fast ...",
+          "rank": 6
+        }
+      ],
+      "serpFeatures": [
+        "video_results",
+        "youtube"
+      ],
+      "serpContentType": "video",
+      "serpFormat": "codes list",
+      "serpAngle": "latest",
+      "status": "ok"
+    },
+    {
+      "slug": "tier-list",
+      "primaryKeyword": "Fruit Zombie Survival Tier List",
+      "topResultTypes": [
+        "video",
+        "video",
+        "video",
+        "video",
+        "inner-page",
+        "wiki",
+        "wiki",
+        "wiki"
+      ],
+      "homepageVsInnerRatio": "0/10 homepage-like",
+      "commonTitlePatterns": [
+        "Fruit Zombie Survival GUIDE! (Best Classes, Get Diamonds ...",
+        "Fruit Zombie Survival Guide! (Codes, Get Gems Fast, Best ...",
+        "FRUIT ZOMBIE SURVIVAL FULL GUIDE! (CODES, GET GEMS ...",
+        "BEST BEGINNER TIPS in FRUIT ZOMBIE SURVIVAL (NOOB to ...",
+        "Fruit Zombie Survival Codes (September 2026)"
+      ],
+      "commonModules": [
+        "Fruit Zombie Survival Tier List overview",
+        "Practical details",
+        "Sources"
+      ],
+      "firstScreenAnswer": "Top results emphasize: Fruit Zombie Survival GUIDE! (Best Classes, Get Diamonds ...",
+      "contentGaps": [
+        "Clear confirmed vs unknown labeling",
+        "Fresh last-checked / last-reviewed date",
+        "Strong contextual links back to homepage and sibling intents"
+      ],
+      "incrementalValue": "Sourced, intent-dedicated page with clearer structure than generic roundups.",
+      "cannibalizationRiskWith": [],
+      "overlapScore": 0,
+      "evidenceType": "dataforseo",
+      "videoIntent": "dominant",
+      "videoResults": [
+        {
+          "url": "https://m.youtube.com/watch?v=n26DrIkfkXw",
+          "title": "Fruit Zombie Survival GUIDE! (Best Classes, Get Diamonds ...",
+          "rank": 1
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=lYRSU8S9qZI",
+          "title": "Fruit Zombie Survival Guide! (Codes, Get Gems Fast, Best ...",
+          "rank": 2
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GcmxKMY1kRk",
+          "title": "FRUIT ZOMBIE SURVIVAL FULL GUIDE! (CODES, GET GEMS ...",
+          "rank": 3
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uPTEstBHiMo",
+          "title": "BEST BEGINNER TIPS in FRUIT ZOMBIE SURVIVAL (NOOB to ...",
+          "rank": 4
+        }
+      ],
+      "serpFeatures": [
+        "video_results",
+        "youtube"
+      ],
+      "serpContentType": "video",
+      "serpFormat": "codes list",
+      "serpAngle": "latest",
+      "status": "ok"
+    }
+  ],
+  "conflicts": [],
+  "knowledgeVersion": "1.0.0",
+  "ruleIdsApplied": [
+    "KB-PLAN-001",
+    "KB-SERP-001",
+    "KB-INTENT-001"
+  ]
+}

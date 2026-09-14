@@ -1,0 +1,335 @@
+{
+  "gameName": "Fruit Zombie Survival",
+  "platform": "Roblox",
+  "officialUrl": "https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+  "summary": "Fruit Zombie Survival is a Roblox survival game by Vibed Games. Players eat Devil Fruits to unlock powers, survive endless zombie waves and special bosses, place special builds using One Piece characters, collect Berries to power up during runs, and cooperate with up to four friends while competing on global leaderboards.",
+  "developer": "Vibed Games",
+  "genre": "Survival",
+  "coreMechanics": [
+    "Eat Devil Fruits to unlock powers.",
+    "Survive endless zombie waves that include special bosses.",
+    "Choose One Piece characters to place special builds during a run.",
+    "Farm Berries to power up during a run.",
+    "Team up with up to four friends and compete on global leaderboards."
+  ],
+  "entities": [
+    {
+      "type": "Devil Fruits",
+      "exists": true,
+      "confidence": "high",
+      "notes": "Devil Fruits can be eaten to unlock powers, and the game advertises 20 fruits to collect.",
+      "sourceIds": [
+        "src-search-1",
+        "src-page-5"
+      ]
+    },
+    {
+      "type": "Zombie Waves",
+      "exists": true,
+      "confidence": "high",
+      "notes": "The main survival challenge consists of endless waves of zombies.",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "type": "Special Bosses",
+      "exists": true,
+      "confidence": "high",
+      "notes": "Special bosses appear during the zombie waves.",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "type": "One Piece Characters",
+      "exists": true,
+      "confidence": "high",
+      "notes": "Players can choose One Piece characters to place special builds during a run.",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "type": "Special Builds",
+      "exists": true,
+      "confidence": "high",
+      "notes": "Special builds can be placed during a run through selected One Piece characters.",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "type": "Berries",
+      "exists": true,
+      "confidence": "high",
+      "notes": "Berries are farmed during runs and used to power up.",
+      "sourceIds": [
+        "src-search-1",
+        "src-page-5"
+      ]
+    },
+    {
+      "type": "Global Leaderboards",
+      "exists": true,
+      "confidence": "high",
+      "notes": "The official description says players can climb global leaderboards.",
+      "sourceIds": [
+        "src-search-1"
+      ]
+    },
+    {
+      "type": "Co-op Multiplayer",
+      "exists": true,
+      "confidence": "high",
+      "notes": "The official description supports teams of up to four friends.",
+      "sourceIds": [
+        "src-search-1"
+      ]
+    },
+    {
+      "type": "Redeemable Codes",
+      "exists": true,
+      "confidence": "medium",
+      "notes": "Guide coverage describes working codes that can provide diamonds, a crate roll, a revive, and an Artifact Crate Roll with 2x Luck. Specific currently valid codes are not included in the fetched source text.",
+      "sourceIds": [
+        "src-search-3"
+      ]
+    },
+    {
+      "type": "Diamonds",
+      "exists": true,
+      "confidence": "medium",
+      "notes": "A codes guide states that codes can reward free diamonds.",
+      "sourceIds": [
+        "src-search-3"
+      ]
+    },
+    {
+      "type": "Artifact Crate Roll",
+      "exists": true,
+      "confidence": "medium",
+      "notes": "A codes guide states that a newly released code rewards an Artifact Crate Roll with 2x Luck.",
+      "sourceIds": [
+        "src-search-3"
+      ]
+    },
+    {
+      "type": "Revive",
+      "exists": true,
+      "confidence": "medium",
+      "notes": "A codes guide states that codes can provide a spare revive.",
+      "sourceIds": [
+        "src-search-3"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "id": "fact-developer",
+      "statement": "Fruit Zombie Survival is developed by Vibed Games.",
+      "category": "identity",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1"
+      ]
+    },
+    {
+      "id": "fact-devil-fruit-power",
+      "statement": "Players can eat a Devil Fruit to unlock its power.",
+      "category": "core_gameplay",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "id": "fact-fruit-count",
+      "statement": "The game advertises 20 fruits to collect.",
+      "category": "collectibles",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1",
+        "src-page-5"
+      ]
+    },
+    {
+      "id": "fact-zombie-waves",
+      "statement": "Players must survive endless zombie waves.",
+      "category": "core_gameplay",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "id": "fact-special-bosses",
+      "statement": "Special bosses are included in the zombie waves.",
+      "category": "enemies",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "id": "fact-special-builds",
+      "statement": "Players can pick One Piece characters to place special builds during a run.",
+      "category": "characters_and_builds",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1",
+        "src-search-3",
+        "src-page-5"
+      ]
+    },
+    {
+      "id": "fact-berries",
+      "statement": "Players can farm Berries to power up during a run.",
+      "category": "progression",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1",
+        "src-page-5"
+      ]
+    },
+    {
+      "id": "fact-party-size",
+      "statement": "The game supports teaming up with up to four friends.",
+      "category": "multiplayer",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1"
+      ]
+    },
+    {
+      "id": "fact-leaderboards",
+      "statement": "Players can compete on global leaderboards.",
+      "category": "competition",
+      "confidence": "high",
+      "sourceIds": [
+        "src-search-1"
+      ]
+    },
+    {
+      "id": "fact-code-rewards",
+      "statement": "A published codes guide reports that codes can award diamonds, a crate roll, and a spare revive.",
+      "category": "codes_and_rewards",
+      "confidence": "medium",
+      "sourceIds": [
+        "src-search-3"
+      ]
+    },
+    {
+      "id": "fact-artifact-reward",
+      "statement": "A published update reports a new code rewarding an Artifact Crate Roll with 2x Luck.",
+      "category": "codes_and_rewards",
+      "confidence": "medium",
+      "sourceIds": [
+        "src-search-3"
+      ]
+    },
+    {
+      "id": "fact-player-count",
+      "statement": "The supplied source metrics report 4,466 players at research time.",
+      "category": "platform_metrics",
+      "confidence": "low",
+      "sourceIds": [
+        "src-search-1"
+      ]
+    }
+  ],
+  "unknowns": [
+    "The complete list of Devil Fruits and the powers of each fruit are unknown.",
+    "The names, abilities, costs, and upgrade paths of One Piece characters and special builds are unknown.",
+    "The zombie types, boss names, boss mechanics, wave scaling, and difficulty structure are unknown.",
+    "The precise function and earning methods for Berries are unknown beyond their use for powering up during a run.",
+    "The leaderboard categories, ranking rules, and rewards are unknown.",
+    "The exact party limit implementation and matchmaking features are unknown beyond support for up to four friends.",
+    "The complete current list of redeemable codes is unknown because the fetched guide text does not include the code strings.",
+    "The expiration status and exact reward mapping of individual codes are unknown.",
+    "The source and details of diamonds, crate rolls, Artifact Crate Rolls, Luck, and revives outside code rewards are unknown.",
+    "The game's release date, update history, monetization, and in-game purchase options are unknown.",
+    "Supported devices and performance requirements are unknown.",
+    "The current player count may change over time and should not be treated as a stable game fact."
+  ],
+  "sources": [
+    {
+      "id": "src-search-1",
+      "url": "https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+      "title": "Fruit Zombie Survival | Play on Roblox",
+      "sourceType": "official",
+      "retrievedAt": "2026-09-14T13:18:36.304Z",
+      "excerpt": "By Vibed Games. Eat a Devil Fruit and unlock its power; collect 20 fruits; survive endless zombie waves with special bosses; pick a One Piece character to place special builds; farm Berries; team up with up to 4 friends and climb global leaderboards."
+    },
+    {
+      "id": "src-search-3",
+      "url": "https://gamerant.com/fruit-zombie-survival-codes-roblox/",
+      "title": "Fruit Zombie Survival Codes (September 2026)",
+      "sourceType": "search_snippet",
+      "retrievedAt": "2026-09-14T13:18:36.304Z",
+      "excerpt": "Fruit Zombie Survival is a Roblox survival game where players eat a Devil Fruit, take its power, and try not to get eaten by zombies. The article reports rewards including diamonds, a crate roll, a spare revive, and a new Artifact Crate Roll with 2x Luck."
+    },
+    {
+      "id": "src-search-5",
+      "url": "https://progameguides.com/roblox/fruit-zombie-survival-codes/",
+      "title": "Fruit Zombie Survival Codes (September 2026) [Artifacts]",
+      "sourceType": "search_snippet",
+      "retrievedAt": "2026-09-14T13:18:36.304Z",
+      "excerpt": "The supplied search result states that there are currently 7 codes as of September 13, 2026, including examples such as SorryForPerturbations and Disc0rd."
+    },
+    {
+      "id": "src-page-4",
+      "url": "https://www.reddit.com/r/Roonby/comments/1wf4yzo/fruit_zombie_survival_codes_2026/",
+      "title": "Reddit",
+      "sourceType": "guide",
+      "retrievedAt": "2026-09-14T13:18:41.207Z",
+      "excerpt": "Reddit page supplied as a related guide source; no usable game facts were fetched."
+    },
+    {
+      "id": "src-page-5",
+      "url": "https://medal.tv/games/roblox/experiences/1bbQthJJVvHOk5/Fruit%20Zombie%20Survival%20%F0%9F%8D%87",
+      "title": "Watch Fruit Zombie Survival Roblox Clips",
+      "sourceType": "guide",
+      "retrievedAt": "2026-09-14T13:18:41.927Z",
+      "excerpt": "Eat a Devil Fruit and unlock its power; 20 fruits to collect; survive endless zombie waves with special bosses; pick a One Piece character to place special builds; farm Berries; team up with friends."
+    },
+    {
+      "id": "src-search-8",
+      "url": "https://www.youtube.com/watch?v=GcmxKMY1kRk",
+      "title": "FRUIT ZOMBIE SURVIVAL FULL GUIDE! (CODES, GET GEMS ...)",
+      "sourceType": "search_snippet",
+      "retrievedAt": "2026-09-14T13:18:50.784Z",
+      "excerpt": "The supplied search result identifies this as a Fruit Zombie Survival guide covering codes and gems, but provides no additional extractable facts."
+    },
+    {
+      "id": "src-search-9",
+      "url": "https://www.youtube.com/watch?v=lYRSU8S9qZI",
+      "title": "Fruit Zombie Survival Guide! (Codes, Get Gems Fast, Best ...)",
+      "sourceType": "search_snippet",
+      "retrievedAt": "2026-09-14T13:19:02.606Z",
+      "excerpt": "The supplied search result identifies this as a Fruit Zombie Survival guide covering codes, gems, and classes, but provides no additional verified facts."
+    },
+    {
+      "id": "src-search-10",
+      "url": "https://m.youtube.com/watch?v=n26DrIkfkXw",
+      "title": "Fruit Zombie Survival GUIDE! (Best Classes, Get Diamonds ...)",
+      "sourceType": "search_snippet",
+      "retrievedAt": "2026-09-14T13:19:17.717Z",
+      "excerpt": "The supplied search result identifies this as a Fruit Zombie Survival guide covering classes and diamonds, but provides no additional extractable facts."
+    }
+  ]
+}

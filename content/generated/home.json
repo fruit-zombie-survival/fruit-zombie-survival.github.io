@@ -1,0 +1,335 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Fruit Zombie Survival Wiki & Guide (2026)",
+  "description": "Fruit Zombie Survival wiki and guide for the Roblox game by Vibed Games. Find codes, tier list, fruits, artifacts, Diamonds, and beginner tips.",
+  "keywords": [
+    "Fruit Zombie Survival",
+    "Fruit Zombie Survival Roblox",
+    "Fruit Zombie Survival wiki",
+    "Fruit Zombie Survival guide",
+    "Fruit Zombie Survival game",
+    "Fruit Zombie Survival tips"
+  ],
+  "primaryKeyword": "Fruit Zombie Survival",
+  "secondaryKeywords": [
+    "Fruit Zombie Survival Roblox",
+    "Fruit Zombie Survival wiki",
+    "Fruit Zombie Survival guide",
+    "Fruit Zombie Survival game",
+    "Fruit Zombie Survival tips"
+  ],
+  "searchIntent": "Confirm what Fruit Zombie Survival is on Roblox, learn the core systems, and jump into codes, tier list, fruits, artifacts, Diamonds, and beginner guides.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 2000,
+  "factsStatus": "verified",
+  "densityTargets": [
+    {
+      "term": "Fruit Zombie Survival",
+      "min": 2,
+      "max": 3.5
+    },
+    {
+      "term": "Fruit Zombie Survival Roblox",
+      "min": 0.08,
+      "max": 1.2
+    },
+    {
+      "term": "Fruit Zombie Survival wiki",
+      "min": 0.2,
+      "max": 1.2
+    },
+    {
+      "term": "Fruit Zombie Survival guide",
+      "min": 0.05,
+      "max": 1.2
+    }
+  ],
+  "hero": {
+    "eyebrow": "Roblox survival wiki",
+    "heading": "Fruit Zombie Survival Wiki & Guide",
+    "lead": "Fruit Zombie Survival wiki coverage starts here: a Roblox survival game by Vibed Games where you eat Devil Fruits, clear endless zombie waves, and fight special bosses. The Fruit Zombie Survival wiki helps you redeem codes, compare fruit roles, understand artifacts, farm Diamonds carefully, and start your first runs with a clear plan.",
+    "supportingText": "Use the codes page for current rewards, the tier list for role-based fruit choices, and the fruits, artifacts, Diamonds, and how-to-play guides when you need deeper systems help. Whether you need a Fruit Zombie Survival Roblox overview, Fruit Zombie Survival wiki routes for first runs, or Fruit Zombie Survival tips before a co-op push, start on the Fruit Zombie Survival wiki hub and branch into the matching child page.",
+    "primaryLink": {
+      "label": "Open Fruit Zombie Survival Codes",
+      "slug": "codes"
+    },
+    "secondaryInternalLink": {
+      "label": "Open Tier List",
+      "slug": "tier-list"
+    },
+    "secondaryLink": {
+      "label": "Play on Roblox",
+      "url": "https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival"
+    }
+  },
+  "sections": [
+    {
+      "id": "quick-facts",
+      "heading": "Fruit Zombie Survival Quick Facts",
+      "intro": "Start with the confirmed Fruit Zombie Survival basics before opening deeper guides. These facts come from the official Roblox game page and are the safest foundation for new players.",
+      "paragraphs": [
+        "Fruit Zombie Survival sits at the intersection of Devil Fruit collection and endless wave survival. You unlock a power by eating a Devil Fruit, then use that power while farming Berries, placing character builds, and surviving escalating zombie pressure with optional co-op support.",
+        "If you only need one overview before playing, use this quick facts table, redeem any active codes, then follow the beginner path further down the page."
+      ],
+      "table": {
+        "caption": "Confirmed Fruit Zombie Survival quick facts",
+        "columns": [
+          "Field",
+          "Detail"
+        ],
+        "rows": [
+          [
+            "Game",
+            "Fruit Zombie Survival"
+          ],
+          [
+            "Platform",
+            "Roblox"
+          ],
+          [
+            "Developer",
+            "Vibed Games"
+          ],
+          [
+            "Genre",
+            "Survival"
+          ],
+          [
+            "Core loop",
+            "Eat a Devil Fruit, survive endless zombie waves, farm Berries, place special builds"
+          ],
+          [
+            "Fruits",
+            "20 Devil Fruits advertised to collect"
+          ],
+          [
+            "Co-op",
+            "Team up with up to four friends; climb global leaderboards"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "what-is-fruit-zombie-survival",
+      "heading": "What Is Fruit Zombie Survival?",
+      "intro": "Fruit Zombie Survival wiki readers land here for a Roblox survival experience from Vibed Games. The official pitch is short and clear: eat a Devil Fruit, face the horde, and survive as long as you can.",
+      "paragraphs": [
+        "The Fruit Zombie Survival game loop is built around powered combat rather than a fixed campaign ending. Endless zombie waves keep pressure rising, and special bosses appear inside that wave structure. That makes every run a test of how well your fruit power, builds, and Berry upgrades hold up over time.",
+        "Collection still matters. Fruit Zombie Survival advertises 20 fruits to collect, so progression is both immediate survival and longer-term Devil Fruit unlocking. Players also pick One Piece characters to place special builds during a run, which adds a setup layer around the fruit power itself.",
+        "Berries are the confirmed in-run power-up resource. You farm them during a session and spend them to grow stronger before the next spike in pressure. Co-op is optional but meaningful: you can team up with up to four friends and compare results on global leaderboards.",
+        "The Fruit Zombie Survival wiki keeps the overview short on purpose. Detailed ranking belongs on the tier list, redeemable rewards belong on the codes page, and currency questions belong on the Diamonds guide.",
+        "Players searching for a Fruit Zombie Survival Roblox overview usually want confirmation that Vibed Games made the experience, that Devil Fruits power the combat fantasy, and that the Fruit Zombie Survival wiki can route them to codes and rankings without fluff."
+      ]
+    },
+    {
+      "id": "how-fruit-zombie-survival-works",
+      "heading": "How Fruit Zombie Survival Works",
+      "intro": "Fruit Zombie Survival wiki sections break the game into four connected systems: Devil Fruits, waves and bosses, character builds, and Berries plus multiplayer goals.",
+      "paragraphs": [
+        "Mastering Fruit Zombie Survival means understanding how those systems reinforce each other. A strong fruit power helps clear waves, builds create positioning and support options, Berries improve your mid-run strength, and co-op changes how much pressure you can absorb."
+      ],
+      "subsections": [
+        {
+          "heading": "Devil Fruits and Powers",
+          "paragraphs": [
+            "In Fruit Zombie Survival, eating a Devil Fruit unlocks its power. That power becomes your primary combat identity for the run. Because the game advertises 20 fruits to collect, fruit hunting is both a short-term combat decision and a long-term collection goal.",
+            "Use the dedicated fruits guide when you want acquisition and comparison help, then open the Fruit Zombie Survival tier list when you need role-based ranking for waves, bosses, solo, and co-op."
+          ]
+        },
+        {
+          "heading": "Zombie Waves and Special Bosses",
+          "paragraphs": [
+            "The main challenge in Fruit Zombie Survival is surviving endless zombie waves. Regular waves test consistency and crowd control, while special bosses create spike moments that punish weak single-target or survivability setups.",
+            "Do not assume one fruit role wins every encounter. Wave-clear value and boss value often diverge, which is why the tier list separates those jobs instead of forcing one universal best fruit claim."
+          ]
+        },
+        {
+          "heading": "Characters and Special Builds",
+          "paragraphs": [
+            "Fruit Zombie Survival lets players pick One Piece characters to place special builds during a run. Builds sit beside your Devil Fruit power as a second decision layer: fruit covers personal combat identity, while builds cover placed support and structure.",
+            "Exact character names, build costs, and upgrade trees are still sparsely documented publicly, so this wiki avoids inventing a . Treat builds as a flexible part of your run plan and re-check in-game menus for the current options."
+          ]
+        },
+        {
+          "heading": "Berries, Co-op and Leaderboards",
+          "paragraphs": [
+            "Berries are farmed during a Fruit Zombie Survival run and used to power up while the session is still active. That makes Berry management part of wave pacing rather than a separate lobby-only economy.",
+            "Co-op supports teams of up to four friends, and global leaderboards give long-term goals beyond a single clear. Diamonds appear in code rewards and are covered separately because they are not the same resource as Berries."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "start-here",
+      "heading": "Start Here: Codes, Tier List and Guides",
+      "intro": "These six Fruit Zombie Survival pages cover the highest-value player intents without overlapping into duplicate doorway content. Open the page that matches the job you need right now.",
+      "paragraphs": [
+        "New players should usually redeem codes first, learn how a run works, then study fruits and Diamonds before obsessing over rankings. Returning players can jump straight to the Fruit Zombie Survival tier list or artifacts guide after an update.",
+        "The Fruit Zombie Survival wiki hub is intentionally compact so a Fruit Zombie Survival Roblox player can move from overview to action in under a minute. Treat the homepage as your Fruit Zombie Survival guide desk before opening any deeper child page."
+      ],
+      "links": [
+        {
+          "label": "Fruit Zombie Survival Codes",
+          "slug": "codes",
+          "description": "Copy active codes for Diamonds, revives, and Artifact Crate Rolls."
+        },
+        {
+          "label": "Fruit Zombie Survival Tier List",
+          "slug": "tier-list",
+          "description": "Compare best fruit roles for waves, bosses, solo, and co-op."
+        },
+        {
+          "label": "Fruit Zombie Survival Fruits Guide",
+          "slug": "fruits",
+          "description": "Understand Devil Fruits, the 20-fruit collection goal, and how to choose roles."
+        },
+        {
+          "label": "Fruit Zombie Survival Artifacts Guide",
+          "slug": "artifacts",
+          "description": "Learn what artifacts add and how Artifact Crate Rolls fit progression."
+        },
+        {
+          "label": "How to Play Fruit Zombie Survival",
+          "slug": "how-to-play",
+          "description": "Follow a beginner checklist for your first successful runs."
+        },
+        {
+          "label": "Fruit Zombie Survival Diamonds Guide",
+          "slug": "diamonds",
+          "description": "See verified Diamond sources and avoid wasting premium currency."
+        }
+      ]
+    },
+    {
+      "id": "artifacts-update",
+      "heading": "Latest Fruit Zombie Survival Update: Artifacts",
+      "intro": "Artifacts are the clearest current content theme around Fruit Zombie Survival. The official Roblox title branding highlights Artifacts, and recent code drops include Artifact Crate Rolls.",
+      "paragraphs": [
+        "That means artifacts are not a side note in the current Fruit Zombie Survival meta conversation. They are a progression layer players should plan around when redeeming rewards and building long-term loadouts.",
+        "What this wiki will not do is invent artifact names, rarities, drop rates, or set bonuses without solid evidence. If a crate roll is your confirmed entry point today, redeem the relevant codes, open the crate rewards in-game, and evaluate each artifact by survivability, wave clear, and synergy with your current fruit.",
+        "For the full system walkthrough, use the Fruit Zombie Survival artifacts guide. For crate-roll sources, keep the codes page bookmarked because artifact rewards are currently one of the most practical free progression paths."
+      ],
+      "links": [
+        {
+          "label": "Open the Artifacts Guide",
+          "slug": "artifacts",
+          "description": "Confirmed artifact framing, crate rolls, and build planning principles."
+        },
+        {
+          "label": "Redeem Artifact Crate Codes",
+          "slug": "codes",
+          "description": "Check which active codes currently list Artifact Crate Rolls."
+        }
+      ]
+    },
+    {
+      "id": "best-path-new-players",
+      "heading": "Best Path for New Players",
+      "intro": "A clean Fruit Zombie Survival beginner path does not require invented stats. Follow this order to reduce wasted time and dead-end grinding.",
+      "paragraphs": [
+        "First, learn the run loop on the how-to-play page so you know what a successful session looks like. Second, redeem every listed active code so you do not miss Diamonds, revives, or Artifact Crate Rolls. Third, read the fruits guide to understand Devil Fruit roles before chasing a perfect ranking.",
+        "Fourth, open the Diamonds guide so you do not confuse Diamonds with Berries or spend premium currency too early. Fifth, use the Fruit Zombie Survival tier list to choose a role that matches your preferred mode: wave clear, bosses, solo, or co-op. Sixth, review artifacts so any crate rewards plug into the same build plan.",
+        "This path keeps Fruit Zombie Survival tips practical. You always have a next action, even when a full named fruit roster or artifact database is still incomplete in public sources."
+      ],
+      "steps": [
+        {
+          "heading": "Learn the run loop",
+          "description": "Read How to Play so character choice, Devil Fruits, waves, bosses, and Berries make sense before you optimize."
+        },
+        {
+          "heading": "Redeem current codes",
+          "description": "Claim Diamonds, revives, and Artifact Crate Rolls from the codes page while they are still listed as active."
+        },
+        {
+          "heading": "Study fruit roles",
+          "description": "Use the fruits guide to understand collection goals and combat roles without copying unrelated Roblox fruit games."
+        },
+        {
+          "heading": "Protect Diamonds",
+          "description": "Learn verified Diamond sources and spend carefully once you know what your account still needs."
+        },
+        {
+          "heading": "Pick a role from the tier list",
+          "description": "Choose wave, boss, solo, or co-op priorities instead of chasing one vague best fruit claim."
+        },
+        {
+          "heading": "Fold in artifacts",
+          "description": "Evaluate new artifact rewards against your current fruit and run goals after every crate roll."
+        }
+      ],
+      "links": [
+        {
+          "label": "Beginner How to Play",
+          "slug": "how-to-play",
+          "description": "First-run checklist and common mistakes."
+        },
+        {
+          "label": "Diamonds Guide",
+          "slug": "diamonds",
+          "description": "Verified methods and code-based Diamond boosts."
+        }
+      ]
+    },
+    {
+      "id": "why-this-wiki",
+      "heading": "Why Use the Fruit Zombie Survival Wiki?",
+      "intro": "Fruit Zombie Survival search demand is rising quickly, and many competing pages either over-split intents or bury answers under repeated game intros.",
+      "paragraphs": [
+        "The Fruit Zombie Survival wiki cluster is intentionally small: one homepage hub plus six focused pages. That structure reduces keyword cannibalization and helps Google and players map one URL to one job.",
+        "Every Fruit Zombie Survival wiki page leads with a direct answer, then adds tables, steps, checklists, and FAQ content that help you finish the task. Where public details are thin, the page still gives an executable next step and links the deeper guide you need.",
+        "Internal links keep the cluster connected. From the Fruit Zombie Survival wiki hub you can reach codes, tier list, fruits, artifacts, how to play, and Diamonds in one click, and each child page links back with contextual anchors rather than footer-only discovery.",
+        "Bookmark the Fruit Zombie Survival wiki when you need a stable hub, then return after each patch for refreshed Fruit Zombie Survival tips and cluster links. A focused Fruit Zombie Survival wiki beats a pile of overlapping doorway pages."
+      ]
+    },
+    {
+      "id": "sources-references",
+      "heading": "Sources and References",
+      "intro": "High-confidence Fruit Zombie Survival identity and systems facts are anchored to the official Roblox experience page. Time-sensitive code lists are cross-checked against current guide coverage.",
+      "paragraphs": [
+        "If a mechanic is not listed on the official page yet, the Fruit Zombie Survival wiki points you to the next practical action and updates when Roblox data expands."
+      ],
+      "subsections": [
+        {
+          "heading": "Key points",
+          "paragraphs": [],
+          "bullets": [
+            "Official Roblox game page: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+            "Codes cross-check references used for the September 2026 active list include Destructoid and Pro Game Guides reporting.",
+            "Community wikis were used only as discovery clues; final facts were checked against Roblox pages and current code lists."
+          ]
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Fruit Zombie Survival?",
+      "answer": "Fruit Zombie Survival wiki coverage describes a Roblox survival game by Vibed Games. Players eat Devil Fruits to unlock powers, survive endless zombie waves with special bosses, place character builds, farm Berries, and can team up with up to four friends while climbing global leaderboards."
+    },
+    {
+      "question": "How many Devil Fruits are in Fruit Zombie Survival?",
+      "answer": "The official game page advertises 20 fruits to collect. Individual fruit names and full ability details are still incomplete in public documentation, so use the fruits guide for system help and the tier list for role-based choices."
+    },
+    {
+      "question": "Does Fruit Zombie Survival have codes?",
+      "answer": "Yes. Fruit Zombie Survival codes are active and commonly reward Diamonds, revives, gems, and Artifact Crate Rolls. Open the codes page for the current list, redemption steps, and last-checked date."
+    },
+    {
+      "question": "Is Fruit Zombie Survival multiplayer?",
+      "answer": "Yes. Fruit Zombie Survival supports co-op with up to four friends, and the official description also highlights global leaderboards for longer-term competition."
+    },
+    {
+      "question": "Where can I find a Fruit Zombie Survival tier list?",
+      "answer": "Open the Fruit Zombie Survival wiki tier list page for role-based rankings covering waves, bosses, solo runs, and co-op. Pair it with the Fruit Zombie Survival guide cluster when you still need system context before ranking."
+    },
+    {
+      "question": "What are Berries used for?",
+      "answer": "Berries are farmed during a Fruit Zombie Survival run and used to power up while that run is still in progress. They are separate from Diamonds, which appear in code rewards and other premium progression contexts."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-09-14"
+}

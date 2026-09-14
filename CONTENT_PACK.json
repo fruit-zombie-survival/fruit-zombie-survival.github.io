@@ -1,0 +1,79 @@
+{
+  "gameName": "Fruit Zombie Survival",
+  "syncedAt": "2026-09-14",
+  "status": "aligned-with-generated-7-page-site",
+  "pages": [
+    {
+      "slug": "",
+      "pageType": "home",
+      "title": "Fruit Zombie Survival Wiki & Guide (2026)",
+      "description": "Fruit Zombie Survival wiki and guide for the Roblox game by Vibed Games. Find codes, tier list, fruits, artifacts, Diamonds, and beginner tips.",
+      "h1": "Fruit Zombie Survival Wiki & Guide",
+      "primaryKeyword": "Fruit Zombie Survival",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "tier-list",
+      "pageType": "list",
+      "title": "Fruit Zombie Survival Tier List (2026): Best Fruits",
+      "description": "Use our Fruit Zombie Survival tier list to compare the best fruits and builds for waves, bosses, solo runs, and co-op play, with current 2026 notes.",
+      "h1": "Fruit Zombie Survival Tier List",
+      "primaryKeyword": "Fruit Zombie Survival Tier List",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "codes",
+      "pageType": "codes",
+      "title": "Fruit Zombie Survival Codes (September 2026)",
+      "description": "Get the latest Fruit Zombie Survival codes for Diamonds, Revives, and Artifact Crate Rolls, plus exact redemption steps and update checks.",
+      "h1": "Fruit Zombie Survival Codes",
+      "primaryKeyword": "Fruit Zombie Survival Codes",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "artifacts",
+      "pageType": "guide",
+      "title": "Fruit Zombie Survival Artifacts Guide (2026)",
+      "description": "Learn how Fruit Zombie Survival artifacts work, how Artifact Crate Rolls fit the game, what is confirmed, and how to plan builds around artifacts.",
+      "h1": "Fruit Zombie Survival Artifacts Guide",
+      "primaryKeyword": "Fruit Zombie Survival Artifacts",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "fruits",
+      "pageType": "database",
+      "title": "Fruit Zombie Survival Fruits Guide & Tier Tips (2026)",
+      "description": "Explore all known Fruit Zombie Survival fruits, how Devil Fruits work, how to unlock and compare them, and which fruit roles fit waves, bosses, and co-op.",
+      "h1": "Fruit Zombie Survival Fruits Guide",
+      "primaryKeyword": "Fruit Zombie Survival Fruits",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "how-to-play",
+      "pageType": "guide",
+      "title": "How to Play Fruit Zombie Survival: Beginner Guide",
+      "description": "Learn how to play Fruit Zombie Survival on Roblox: choose a character, use Devil Fruits, spend Berries, survive zombie waves, beat bosses, and play co-op.",
+      "h1": "How to Play Fruit Zombie Survival",
+      "primaryKeyword": "How to Play Fruit Zombie Survival",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "diamonds",
+      "pageType": "guide",
+      "title": "Fruit Zombie Survival Diamonds: How to Get Them Fast",
+      "description": "Learn how to get Diamonds in Fruit Zombie Survival, what Diamonds are used for, which farming methods are verified, and how codes can boost your balance.",
+      "h1": "Fruit Zombie Survival Diamonds Guide",
+      "primaryKeyword": "Fruit Zombie Survival Diamonds",
+      "sectionsFromGenerated": true
+    }
+  ],
+  "factHighlights": [
+    "Official 20 fruits to collect",
+    "Collect 5/10/15/20 + Fruit Maniac badges",
+    "Kitsune / Shiny Kitsune limited fruit badges",
+    "Hidden Diamonds + Richer than rich badges",
+    "Complete Dressrosa unlocks Baratie",
+    "Artifact Common–Mythic collection badges",
+    "2x Diamonds pass at 499 Robux"
+  ]
+}
