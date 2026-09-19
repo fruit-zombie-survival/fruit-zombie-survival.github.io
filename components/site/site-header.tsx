@@ -12,8 +12,8 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
 
   return (
     <header className="site-header relative sticky top-0 z-50">
-      <div className="site-container flex h-16 items-center justify-between gap-5">
-        <Link href="/" className="flex min-w-0 items-center gap-3" onClick={() => setOpen(false)}>
+      <div className="site-container flex h-16 items-center justify-between gap-3 md:gap-4">
+        <Link href="/" className="flex min-w-0 shrink-0 items-center gap-2.5" onClick={() => setOpen(false)}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={assetPath(siteConfig.assets.logo)} alt={`${siteConfig.shortName} logo`} className="h-9 w-9 rounded-theme" />
           <span className="truncate text-base font-black tracking-tight text-foreground sm:text-lg">
@@ -33,13 +33,13 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
 
         <nav
           aria-label="Primary navigation"
-          className={`site-nav ${open ? "flex" : "hidden"} absolute inset-x-0 top-16 flex-col gap-1 border-b border-border p-4 shadow-theme md:static md:flex md:flex-row md:border-0 md:bg-transparent md:p-0 md:shadow-none`}
+          className={`site-nav ${open ? "flex" : "hidden"} absolute inset-x-0 top-16 flex-col gap-1 border-b border-border p-4 shadow-theme md:static md:flex md:min-w-0 md:flex-1 md:flex-row md:flex-wrap md:items-center md:justify-end md:gap-0.5 md:border-0 md:bg-transparent md:p-0 md:shadow-none lg:flex-nowrap`}
         >
           {links.map((link) => (
             <Link
               key={link.slug}
               href={routePath(link.slug)}
-              className="site-nav-link px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground"
+              className="site-nav-link whitespace-nowrap px-2 py-1.5 text-xs font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground md:px-2.5 lg:text-[13px]"
               onClick={() => setOpen(false)}
             >
               {link.label}

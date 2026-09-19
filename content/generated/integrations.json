@@ -1,5 +1,27 @@
 {
   "gaMeasurementId": "G-VL1XTSC75T",
   "googleSiteVerification": null,
-  "bingSiteVerification": null
+  "bingSiteVerification": null,
+  "ads": {
+    "provider": "adsterra",
+    "desktopBanner": {
+      "key": "330ac6d91027410f18718fcd9833d8da",
+      "width": 728,
+      "height": 90,
+      "scriptSrc": "https://www.highrevenueformat.com/330ac6d91027410f18718fcd9833d8da/invoke.js"
+    },
+    "mobileBanner": {
+      "key": "748f22ba41fdadca6599e8b21de41500",
+      "width": 320,
+      "height": 50,
+      "scriptSrc": "https://www.highrevenueformat.com/748f22ba41fdadca6599e8b21de41500/invoke.js"
+    },
+    "native": {
+      "scriptUrl": "https://pl31410918.profitableratecpmnetwork.com/c2276c016f85b8e8936d2c3df718fcbf/invoke.js",
+      "containerId": "c2276c016f85b8e8936d2c3df718fcbf"
+    },
+    "socialBar": {
+      "scriptSrc": "https://pl31410919.profitableratecpmnetwork.com/cf/a0/50/cfa050fd486f81d1cc7e74fdca3a3428.js"
+    }
+  }
 }

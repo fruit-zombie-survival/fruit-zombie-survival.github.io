@@ -1,6 +1,7 @@
 import { BookOpen, ExternalLink, Gamepad2 } from "lucide-react";
 import Link from "next/link";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBannerSlot } from "@/components/integrations/responsive-banner-slot";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
 import { PageSections } from "@/components/site/page-sections";
@@ -16,6 +17,8 @@ export const metadata = pageMetadata(homePage);
 
 export default function HomePage() {
   if (siteSkin() === "wiki") return <WikiHomePage />;
+
+  const [firstSection, ...restSections] = homePage.sections;
 
   return (
     <>
@@ -61,10 +64,14 @@ export default function HomePage() {
           </div>
         </section>
 
-        <div className="site-container"><NativeAdSlot /></div>
+        <ResponsiveBannerSlot />
 
         <div className="site-container space-y-20 py-14 sm:py-20">
-          <PageSections sections={homePage.sections} />
+          {firstSection ? <PageSections sections={[firstSection]} /> : null}
+          <div className="ad-slot-wrap ad-slot-wrap-native">
+            <NativeAdSlot />
+          </div>
+          {restSections.length ? <PageSections sections={restSections} /> : null}
           {homePage.screenshots.length ? <section>
             <p className="eyebrow">Visual reference</p>
             <h2>Example Game Screenshots</h2>

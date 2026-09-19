@@ -1,7 +1,7 @@
 {
   "gameName": "Fruit Zombie Survival",
-  "syncedAt": "2026-09-14",
-  "status": "aligned-with-generated-7-page-site",
+  "syncedAt": "2026-09-19",
+  "status": "aligned-with-generated-10-page-site",
   "pages": [
     {
       "slug": "",
@@ -65,6 +65,33 @@
       "h1": "Fruit Zombie Survival Diamonds Guide",
       "primaryKeyword": "Fruit Zombie Survival Diamonds",
       "sectionsFromGenerated": true
+    },
+    {
+      "slug": "maps",
+      "pageType": "guide",
+      "title": "Fruit Zombie Survival Maps: Dressrosa & Baratie Guide",
+      "description": "Fruit Zombie Survival maps guide covering Dressrosa, Baratie, hidden Diamonds, map unlocks, progression, and practical routing tips for Roblox players.",
+      "h1": "Fruit Zombie Survival Maps Guide",
+      "primaryKeyword": "Fruit Zombie Survival Maps",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "berries",
+      "pageType": "guide",
+      "title": "Fruit Zombie Survival Berries: How to Farm & Spend",
+      "description": "Learn how Fruit Zombie Survival Berries work, how to farm them during runs, when to spend them, and how Berries differ from Diamonds.",
+      "h1": "Fruit Zombie Survival Berries Guide",
+      "primaryKeyword": "Fruit Zombie Survival Berries",
+      "sectionsFromGenerated": true
+    },
+    {
+      "slug": "characters",
+      "pageType": "database",
+      "title": "Fruit Zombie Survival Characters Guide (2026)",
+      "description": "Explore confirmed Fruit Zombie Survival characters, builds, abilities and passives, plus how to choose characters for solo, waves, bosses, and co-op.",
+      "h1": "Fruit Zombie Survival Characters Guide",
+      "primaryKeyword": "Fruit Zombie Survival Characters",
+      "sectionsFromGenerated": true
     }
   ],
   "factHighlights": [
@@ -74,6 +101,10 @@
     "Hidden Diamonds + Richer than rich badges",
     "Complete Dressrosa unlocks Baratie",
     "Artifact Common–Mythic collection badges",
-    "2x Diamonds pass at 499 Robux"
+    "2x Diamonds pass at 499 Robux",
+    "Collect all hidden diamonds map exploration",
+    "So much berries hold 100,000",
+    "Discover Enel / Aokiji Secret passive badges",
+    "Complete Arlong Park badge listed (0 awards as of 2026-09-19)"
   ]
 }

@@ -1,6 +1,7 @@
 import { CalendarCheck2 } from "lucide-react";
 import Link from "next/link";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBannerSlot } from "@/components/integrations/responsive-banner-slot";
 import type { SeoPageDefinition } from "@/config/types";
 import { getRelatedPages, visibleCorePages } from "@/content/registry";
 import { pageSchemas } from "@/lib/schema";
@@ -20,6 +21,7 @@ export function WikiSeoPage({ page }: { page: SeoPageDefinition }) {
     ...(page.screenshots?.length ? [{ id: "screenshots", heading: "Gameplay Screenshots" }] : []),
     ...(page.faq?.length ? [{ id: "faq", heading: "Frequently Asked Questions" }] : []),
   ]);
+  const [firstSection, ...restSections] = page.sections;
 
   return (
     <>
@@ -39,7 +41,7 @@ export function WikiSeoPage({ page }: { page: SeoPageDefinition }) {
           </div>
         </section>
 
-        <div className="site-container"><NativeAdSlot /></div>
+        <ResponsiveBannerSlot />
 
         <div className="site-container wiki-page-body">
           <WikiShell
@@ -73,7 +75,11 @@ export function WikiSeoPage({ page }: { page: SeoPageDefinition }) {
               </>
             )}
           >
-            <WikiPageSections sections={page.sections} />
+            {firstSection ? <WikiPageSections sections={[firstSection]} /> : null}
+            <div className="ad-slot-wrap ad-slot-wrap-native">
+              <NativeAdSlot />
+            </div>
+            {restSections.length ? <WikiPageSections sections={restSections} /> : null}
             {page.screenshots?.length ? (
               <section id="screenshots" className="scroll-mt-24">
                 <h2>Gameplay Screenshots</h2>

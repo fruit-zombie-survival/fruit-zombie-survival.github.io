@@ -200,6 +200,21 @@
           "label": "Fruit Zombie Survival Diamonds Guide",
           "slug": "diamonds",
           "description": "See verified Diamond sources and avoid wasting premium currency."
+        },
+        {
+          "label": "Fruit Zombie Survival Maps",
+          "slug": "maps",
+          "description": "Dressrosa, Baratie unlocks, and hidden Diamond geography."
+        },
+        {
+          "label": "Fruit Zombie Survival Berries",
+          "slug": "berries",
+          "description": "Farm and spend the in-run power-up currency."
+        },
+        {
+          "label": "Fruit Zombie Survival Characters",
+          "slug": "characters",
+          "description": "Confirmed character builds, passives, and selection tips."
         }
       ]
     },

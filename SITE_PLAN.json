@@ -2,7 +2,7 @@
   "gameName": "Fruit Zombie Survival",
   "platform": "Roblox",
   "developer": "Vibed Games",
-  "siteStrategy": "Launch a focused seven-page Fruit Zombie Survival wiki hub covering the game entity plus Codes, Tier List, Fruits, Artifacts, How to Play, and Diamonds as independent search intents.",
+  "siteStrategy": "Launch a focused ten-page Fruit Zombie Survival wiki hub covering the game entity plus Codes, Tier List, Fruits, Artifacts, How to Play, Diamonds, Maps, Berries, and Characters as independent search intents.",
   "readyForLaunch": true,
   "hosting": {
     "siteUrl": "https://fruit-zombie-survival.github.io",
@@ -52,7 +52,8 @@
         "fruits",
         "artifacts",
         "how-to-play",
-        "diamonds"
+        "diamonds",
+        "characters"
       ],
       "decision": "Core SEO page for a single primary intent"
     },
@@ -101,7 +102,8 @@
         "codes",
         "fruits",
         "tier-list",
-        "how-to-play"
+        "how-to-play",
+        "characters"
       ],
       "decision": "Core SEO page for a single primary intent"
     },
@@ -127,7 +129,8 @@
         "tier-list",
         "diamonds",
         "how-to-play",
-        "artifacts"
+        "artifacts",
+        "characters"
       ],
       "decision": "Core SEO page for a single primary intent"
     },
@@ -154,7 +157,10 @@
         "fruits",
         "diamonds",
         "tier-list",
-        "artifacts"
+        "artifacts",
+        "maps",
+        "berries",
+        "characters"
       ],
       "decision": "Core SEO page for a single primary intent"
     },
@@ -179,15 +185,97 @@
         "codes",
         "fruits",
         "how-to-play",
-        "tier-list"
+        "tier-list",
+        "maps"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "maps",
+      "pageType": "guide",
+      "primaryKeyword": "Fruit Zombie Survival Maps",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival map",
+        "Fruit Zombie Survival Dressrosa",
+        "Fruit Zombie Survival Baratie",
+        "Fruit Zombie Survival hidden Diamonds",
+        "Fruit Zombie Survival map guide",
+        "how to unlock Baratie Fruit Zombie Survival",
+        "Fruit Zombie Survival locations"
+      ],
+      "searchIntent": "Learn which Fruit Zombie Survival maps and areas are confirmed, how Dressrosa unlocks Baratie, how hidden Diamonds tie to map exploration, and how to route progression.",
+      "priority": "P0",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Maps: Dressrosa & Baratie Guide",
+      "description": "Fruit Zombie Survival maps guide covering Dressrosa, Baratie, hidden Diamonds, map unlocks, progression, and practical routing tips for Roblox players.",
+      "h1": "Fruit Zombie Survival Maps Guide",
+      "relatedSlugs": [
+        "diamonds",
+        "how-to-play",
+        "berries",
+        "characters"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "berries",
+      "pageType": "guide",
+      "primaryKeyword": "Fruit Zombie Survival Berries",
+      "secondaryKeywords": [
+        "how to get Berries in Fruit Zombie Survival",
+        "how to farm Berries Fruit Zombie Survival",
+        "Fruit Zombie Survival Berry farm",
+        "what to spend Berries on Fruit Zombie Survival",
+        "Fruit Zombie Survival Berries guide",
+        "Fruit Zombie Survival Berries vs Diamonds"
+      ],
+      "searchIntent": "Understand what Fruit Zombie Survival Berries are, how to earn and farm them during runs, what to spend them on, when to save, and how they differ from Diamonds.",
+      "priority": "P0",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Berries: How to Farm & Spend",
+      "description": "Learn how Fruit Zombie Survival Berries work, how to farm them during runs, when to spend them, and how Berries differ from Diamonds.",
+      "h1": "Fruit Zombie Survival Berries Guide",
+      "relatedSlugs": [
+        "how-to-play",
+        "diamonds",
+        "tier-list",
+        "characters"
+      ],
+      "decision": "Core SEO page for a single primary intent"
+    },
+    {
+      "slug": "characters",
+      "pageType": "database",
+      "primaryKeyword": "Fruit Zombie Survival Characters",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival character list",
+        "Fruit Zombie Survival characters guide",
+        "Fruit Zombie Survival best character",
+        "Fruit Zombie Survival character builds",
+        "Fruit Zombie Survival passives",
+        "Fruit Zombie Survival classes",
+        "Fruit Zombie Survival character abilities"
+      ],
+      "searchIntent": "Learn which Fruit Zombie Survival characters are confirmed, how character builds and passives work, how to choose for solo or co-op, and how characters differ from Devil Fruits and artifacts.",
+      "priority": "P1",
+      "navVisible": true,
+      "title": "Fruit Zombie Survival Characters Guide (2026)",
+      "description": "Explore confirmed Fruit Zombie Survival characters, builds, abilities and passives, plus how to choose characters for solo, waves, bosses, and co-op.",
+      "h1": "Fruit Zombie Survival Characters Guide",
+      "relatedSlugs": [
+        "tier-list",
+        "fruits",
+        "artifacts",
+        "how-to-play",
+        "berries"
       ],
       "decision": "Core SEO page for a single primary intent"
     }
   ],
   "notes": [
-    "Supersedes earlier minimal three-page planning.",
+    "Supersedes earlier seven-page planning.",
     "Runtime source of truth remains content/generated/*.json.",
-    "Synced 2026-09-14",
-    "Final patch 2026-09-14: tier-list unranked status + fruits confirmed list wording."
+    "Synced 2026-09-19: added maps, berries, characters without regenerating the frozen 7 pages.",
+    "Synced 2026-09-19: Maps/Berries/Characters navVisible=true; header uses denser nav text."
   ]
 }

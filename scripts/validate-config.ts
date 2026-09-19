@@ -119,16 +119,26 @@ for (const url of externalUrls) {
   }
 }
 
-if (integrations.ads.provider === "adsterra-native") {
-  if (!integrations.ads.scriptUrl.startsWith("https://") || !integrations.ads.containerId) {
-    fail("Native advertising requires an HTTPS script URL and a container ID");
+if (integrations.ads.provider === "adsterra") {
+  const { desktopBanner, mobileBanner, native, socialBar } = integrations.ads;
+  if (!desktopBanner.scriptSrc.startsWith("https://") || !desktopBanner.key) {
+    fail("Adsterra desktop banner requires an HTTPS script URL and key");
   }
-}
-
-const rawAdScript = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_SCRIPT_URL?.trim();
-const rawAdContainer = process.env.NEXT_PUBLIC_ADSTERRA_NATIVE_CONTAINER_ID?.trim();
-if (Boolean(rawAdScript) !== Boolean(rawAdContainer)) {
-  fail("Native advertising configuration is partial; provide both values or neither");
+  if (!mobileBanner.scriptSrc.startsWith("https://") || !mobileBanner.key) {
+    fail("Adsterra mobile banner requires an HTTPS script URL and key");
+  }
+  if (!native.scriptUrl.startsWith("https://") || !native.containerId) {
+    fail("Adsterra native banner requires an HTTPS script URL and container ID");
+  }
+  if (!socialBar.scriptSrc.startsWith("https://")) {
+    fail("Adsterra social bar requires an HTTPS script URL");
+  }
+  if (desktopBanner.width !== 728 || desktopBanner.height !== 90) {
+    fail("Adsterra desktop banner must be 728x90");
+  }
+  if (mobileBanner.width !== 320 || mobileBanner.height !== 50) {
+    fail("Adsterra mobile banner must be 320x50");
+  }
 }
 
 if (siteConfig.readyForLaunch) {

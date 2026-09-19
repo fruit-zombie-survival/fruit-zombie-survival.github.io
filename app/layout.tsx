@@ -1,5 +1,6 @@
 import type { CSSProperties, ReactNode } from "react";
 import { Analytics } from "@/components/integrations/analytics";
+import { SocialBarSlot } from "@/components/integrations/social-bar-slot";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SiteHeader } from "@/components/site/site-header";
 import { siteConfig } from "@/config/site";
@@ -11,9 +12,10 @@ import "./globals.css";
 export const metadata = rootMetadata();
 
 const navLinks = visibleCorePages.map((page) => ({ label: page.navLabel, slug: page.slug }));
-const footerCoreLinks = enabledCorePages
-  .filter((page) => page.navVisible)
-  .map((page) => ({ label: page.navLabel, slug: page.slug }));
+const footerCoreLinks = enabledCorePages.map((page) => ({
+  label: page.navLabel,
+  slug: page.slug,
+}));
 const legalLinks = enabledLegalPages.map((page) => ({ label: page.navLabel, slug: page.slug }));
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
@@ -40,6 +42,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={footerCoreLinks} legalLinks={legalLinks} />
         <Analytics />
+        <SocialBarSlot />
       </body>
     </html>
   );

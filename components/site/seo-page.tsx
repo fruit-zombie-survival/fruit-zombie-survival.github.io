@@ -5,6 +5,7 @@ import { pageSchemas } from "@/lib/schema";
 import { getRelatedPages } from "@/content/registry";
 import { assetPath } from "@/lib/urls";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBannerSlot } from "@/components/integrations/responsive-banner-slot";
 import { Breadcrumbs } from "./breadcrumbs";
 import { Faq } from "./faq";
 import { JsonLd } from "./json-ld";
@@ -16,6 +17,7 @@ export function SeoPage({ page }: { page: SeoPageDefinition }) {
   if (siteSkin() === "wiki") return <WikiSeoPage page={page} />;
 
   const related = getRelatedPages(page);
+  const [firstSection, ...restSections] = page.sections;
 
   return (
     <>
@@ -34,10 +36,14 @@ export function SeoPage({ page }: { page: SeoPageDefinition }) {
           </div>
         </section>
 
-        <div className="site-container"><NativeAdSlot /></div>
+        <ResponsiveBannerSlot />
 
         <div className="site-container space-y-20 py-14 sm:py-20">
-          <PageSections sections={page.sections} />
+          {firstSection ? <PageSections sections={[firstSection]} /> : null}
+          <div className="ad-slot-wrap ad-slot-wrap-native">
+            <NativeAdSlot />
+          </div>
+          {restSections.length ? <PageSections sections={restSections} /> : null}
           {page.screenshots?.length ? (
             <section>
               <h2>Gameplay Screenshots</h2>

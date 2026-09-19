@@ -103,6 +103,22 @@ export interface SiteConfig {
   };
 }
 
+export interface AdsterraBannerUnit {
+  key: string;
+  width: number;
+  height: number;
+  scriptSrc: string;
+}
+
+export interface AdsterraNativeUnit {
+  scriptUrl: string;
+  containerId: string;
+}
+
+export interface AdsterraSocialBarUnit {
+  scriptSrc: string;
+}
+
 export interface IntegrationConfig {
   analytics:
     | { provider: "none" }
@@ -110,9 +126,11 @@ export interface IntegrationConfig {
   ads:
     | { provider: "none" }
     | {
-        provider: "adsterra-native";
-        scriptUrl: string;
-        containerId: string;
+        provider: "adsterra";
+        desktopBanner: AdsterraBannerUnit;
+        mobileBanner: AdsterraBannerUnit;
+        native: AdsterraNativeUnit;
+        socialBar: AdsterraSocialBarUnit;
       };
   verification: {
     google: string | null;

@@ -9,21 +9,24 @@ export function NativeAdClient({ scriptUrl, containerId }: { scriptUrl: string; 
     const host = hostRef.current;
     if (!host) return;
 
-    const container = document.createElement("div");
-    container.id = containerId;
-    host.appendChild(container);
+    host.replaceChildren();
 
     const script = document.createElement("script");
     script.async = true;
     script.src = scriptUrl;
     script.dataset.cfasync = "false";
-    script.dataset.gameWikiNativeAd = containerId;
-    host.insertBefore(script, container);
+    script.dataset.adsterraNative = containerId;
+
+    const container = document.createElement("div");
+    container.id = containerId;
+
+    host.appendChild(script);
+    host.appendChild(container);
 
     return () => {
       host.replaceChildren();
     };
   }, [containerId, scriptUrl]);
 
-  return <div ref={hostRef} data-native-ad-slot />;
+  return <div ref={hostRef} className="ad-slot-script-host" data-native-ad-slot />;
 }

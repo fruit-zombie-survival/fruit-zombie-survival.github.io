@@ -1,6 +1,7 @@
 import { BookOpen, ExternalLink, Gamepad2 } from "lucide-react";
 import Link from "next/link";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { ResponsiveBannerSlot } from "@/components/integrations/responsive-banner-slot";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
 import { WikiPageSections } from "@/components/site/wiki-page-sections";
@@ -73,7 +74,7 @@ export function WikiHomePage() {
           </div>
         </section>
 
-        <div className="site-container"><NativeAdSlot /></div>
+        <ResponsiveBannerSlot />
 
         <div className="site-container wiki-page-body">
           {facts.length ? (
@@ -88,6 +89,10 @@ export function WikiHomePage() {
               </dl>
             </section>
           ) : null}
+
+          <div className="ad-slot-wrap ad-slot-wrap-native">
+            <NativeAdSlot />
+          </div>
 
           {visibleCorePages.length ? (
             <nav className="wiki-quick-nav" aria-label="Quick navigation">

@@ -307,7 +307,8 @@
       "fruits",
       "artifacts",
       "how-to-play",
-      "diamonds"
+      "diamonds",
+      "characters"
     ],
     "lastReviewed": "2026-09-14"
   },
@@ -914,7 +915,8 @@
       "codes",
       "fruits",
       "tier-list",
-      "how-to-play"
+      "how-to-play",
+      "characters"
     ],
     "lastReviewed": "2026-09-14"
   },
@@ -1249,7 +1251,8 @@
       "tier-list",
       "diamonds",
       "how-to-play",
-      "artifacts"
+      "artifacts",
+      "characters"
     ],
     "lastReviewed": "2026-09-14"
   },
@@ -1553,7 +1556,10 @@
       "fruits",
       "diamonds",
       "tier-list",
-      "artifacts"
+      "artifacts",
+      "maps",
+      "berries",
+      "characters"
     ],
     "lastReviewed": "2026-09-14"
   },
@@ -1897,8 +1903,1000 @@
       "codes",
       "fruits",
       "how-to-play",
-      "tier-list"
+      "tier-list",
+      "maps"
     ],
     "lastReviewed": "2026-09-14"
+  },
+  {
+    "enabled": true,
+    "slug": "maps",
+    "pageType": "guide",
+    "navLabel": "Maps",
+    "title": "Fruit Zombie Survival Maps: Dressrosa & Baratie Guide",
+    "description": "Fruit Zombie Survival maps guide covering Dressrosa, Baratie, hidden Diamonds, map unlocks, progression, and practical routing tips for Roblox players.",
+    "keywords": [
+      "Fruit Zombie Survival Maps",
+      "Fruit Zombie Survival map",
+      "Fruit Zombie Survival Dressrosa",
+      "Fruit Zombie Survival Baratie",
+      "Fruit Zombie Survival hidden Diamonds",
+      "Fruit Zombie Survival map guide",
+      "how to unlock Baratie Fruit Zombie Survival",
+      "Fruit Zombie Survival locations"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Maps",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival map",
+      "Fruit Zombie Survival Dressrosa",
+      "Fruit Zombie Survival Baratie",
+      "Fruit Zombie Survival hidden Diamonds",
+      "Fruit Zombie Survival map guide",
+      "how to unlock Baratie Fruit Zombie Survival",
+      "Fruit Zombie Survival locations"
+    ],
+    "searchIntent": "Learn which Fruit Zombie Survival maps and areas are confirmed, how Dressrosa unlocks Baratie, how hidden Diamonds tie to map exploration, and how to route progression.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1500,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Maps",
+        "min": 1.5,
+        "max": 3.5
+      },
+      {
+        "term": "Fruit Zombie Survival Dressrosa",
+        "min": 0.1,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival Baratie",
+        "min": 0.1,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival hidden Diamonds",
+        "min": 0.08,
+        "max": 1.0
+      }
+    ],
+    "hero": {
+      "eyebrow": "Locations + unlocks",
+      "heading": "Fruit Zombie Survival Maps Guide",
+      "lead": "Quick answer: confirmed Fruit Zombie Survival Maps currently center on Dressrosa and Baratie. Complete Dressrosa awards access to the Baratie, and Collect all hidden diamonds makes map exploration part of Diamond progress. Use this Fruit Zombie Survival Maps page for unlocks, routing, and pickup geography — not for deep Diamond farming math."
+    },
+    "sections": [
+      {
+        "id": "maps-quick-list",
+        "heading": "Fruit Zombie Survival Maps – Quick List",
+        "intro": "Start here if you only need the current named map picture for Fruit Zombie Survival Maps.",
+        "table": {
+          "caption": "Confirmed maps and related badges checked 2026-09-19",
+          "columns": [
+            "Map / Area",
+            "Access",
+            "Main Objective",
+            "Key Rewards / Notes",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Dressrosa",
+              "Available as a named completable map",
+              "Earn Complete Dressrosa",
+              "Badge text unlocks Baratie access",
+              "Confirmed"
+            ],
+            [
+              "Baratie",
+              "After Complete Dressrosa",
+              "Explore the unlocked layout and continue runs",
+              "New pickup routes and wave routes",
+              "Confirmed unlock"
+            ],
+            [
+              "Hidden Diamonds (map pickups)",
+              "Walk Dressrosa, then Baratie",
+              "Collect all hidden diamonds badge",
+              "Geography belongs on Maps; farming depth on Diamonds",
+              "Confirmed badge"
+            ],
+            [
+              "Arlong Park",
+              "Badge listed on Roblox",
+              "Complete Arlong Park",
+              "Badge exists; zero awards as of 2026-09-19",
+              "Named badge only"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Fruit Zombie Survival Maps are tracked through live Roblox badges rather than a public island spreadsheet. Dressrosa and Baratie are the two named layouts with a clear unlock relationship today.",
+          "Arlong Park appears as a Complete Arlong Park badge on the official experience, but it has not been awarded yet as of September 19, 2026. Treat it as a named badge, not a guaranteed live route, until players actually unlock it.",
+          "Keep this Fruit Zombie Survival Maps quick list nearby when you only need Dressrosa, Baratie, and the hidden Diamond reminder before a session."
+        ]
+      },
+      {
+        "id": "dressrosa",
+        "heading": "Dressrosa",
+        "intro": "Dressrosa is the first named map players are steered toward in Fruit Zombie Survival Maps progression.",
+        "paragraphs": [
+          "Dressrosa is confirmed by the official Complete Dressrosa badge. Completing it is a gated milestone, not a cosmetic title: the badge description states that you can now access the Baratie.",
+          "Exact in-run completion criteria are not published as a wave number or boss name on the Roblox badge page. Play the Dressrosa layout until the Complete Dressrosa badge unlocks, then check map selection again.",
+          "On Dressrosa, treat the floor as both a survival arena and an exploration layer. Place character builds on chokes, farm Berries during manageable waves, and sweep side routes for Fruit Zombie Survival hidden Diamonds before the horde gets loud.",
+          "Fruit Zombie Survival Dressrosa is the practical first map goal after you can survive early waves. If Wave 10 is still unstable, stabilize your fruit and build loop before treating Dressrosa like a sightseeing tour.",
+          "That is why Fruit Zombie Survival Maps puts Dressrosa before Baratie sightseeing."
+        ],
+        "links": [
+          {
+            "label": "How to Play beginner loop",
+            "slug": "how-to-play",
+            "description": "Stabilize waves before map hunting."
+          },
+          {
+            "label": "Characters and builds",
+            "slug": "characters",
+            "description": "Place builds on Dressrosa chokes."
+          }
+        ]
+      },
+      {
+        "id": "unlock-baratie",
+        "heading": "How to Unlock Baratie",
+        "intro": "How to unlock Baratie in Fruit Zombie Survival Maps is answered by one official badge line.",
+        "paragraphs": [
+          "Complete Dressrosa. The Roblox badge description says you can now access to the baratie. That is the confirmed unlock relationship for Fruit Zombie Survival Baratie inside Fruit Zombie Survival Maps.",
+          "Do not wait for a code, game pass, or Diamond purchase to open Baratie. Codes help account currency; map access is tied to the Complete Dressrosa milestone.",
+          "After the badge pops, rejoin or refresh map selection if Baratie is not visible yet. Stale Roblox servers can lag behind badge awards.",
+          "Exact Dressrosa clear conditions beyond the badge name are not publicly documented as of September 19, 2026. Keep playing the Dressrosa objective until Complete Dressrosa awards, then move on."
+        ],
+        "steps": [
+          {
+            "heading": "Reach Dressrosa content",
+            "description": "Enter the Dressrosa layout from map selection once it is available to your account."
+          },
+          {
+            "heading": "Play until Complete Dressrosa awards",
+            "description": "Finish the layout objective the game tracks for that badge. Trust the badge popup over guessed wave numbers."
+          },
+          {
+            "heading": "Confirm Baratie access",
+            "description": "Open map selection again and choose Baratie. Rejoin a fresh server if the option is missing."
+          },
+          {
+            "heading": "Re-learn chokes and pickups",
+            "description": "Replace builds and re-run a hidden Diamond sweep on the new floor."
+          }
+        ]
+      },
+      {
+        "id": "hidden-diamonds-maps",
+        "heading": "Hidden Diamonds and Map Exploration",
+        "intro": "Fruit Zombie Survival hidden Diamonds belong on Fruit Zombie Survival Maps because they are a geography task.",
+        "paragraphs": [
+          "Roblox lists Collect all hidden diamonds as an official badge. That means layouts hide pickups on purpose, and map exploration is part of early progression.",
+          "Start the hunt on Dressrosa: check walls, props, alleys, and side rooms before Wave pressure peaks. After Baratie unlocks, repeat the same sweep instead of assuming Dressrosa alone finishes the badge.",
+          "This Fruit Zombie Survival Maps section covers where and why to search. Exact farming loops, code spikes, and the 2x Diamonds pass stay on the Diamonds guide so each page keeps a clean intent.",
+          "In co-op, assign one scavenger while another player kites. Diving four people into a corner for one pickup is how runs wipe."
+        ],
+        "links": [
+          {
+            "label": "Full Diamonds farming guide",
+            "slug": "diamonds",
+            "description": "Codes, 2x pass, banking, and spend order."
+          }
+        ]
+      },
+      {
+        "id": "map-progression",
+        "heading": "Fruit Zombie Survival Map Progression",
+        "intro": "Use this compact route for Fruit Zombie Survival Maps progression after the first arena feels stable.",
+        "steps": [
+          {
+            "heading": "Lobby / first playable arena",
+            "description": "Learn fruit skills, place a build, and survive early waves."
+          },
+          {
+            "heading": "Dressrosa",
+            "description": "Treat Complete Dressrosa as the first named map milestone."
+          },
+          {
+            "heading": "Baratie",
+            "description": "Unlock via Complete Dressrosa, then relearn routes and pickups."
+          },
+          {
+            "heading": "Watch Arlong Park badge status",
+            "description": "Complete Arlong Park is listed on Roblox but had zero awards on 2026-09-19, so wait for live unlocks before planning around it."
+          }
+        ],
+        "paragraphs": [
+          "Fruit Zombie Survival locations beyond Dressrosa and Baratie should only enter your plan when a badge, map select option, or developer note confirms them. Corrida Colosseum is not listed as its own Completable map badge in the current Roblox badge set.",
+          "Wave badges (10, 25, 50, 100, 500) measure survival length. Map badges measure layout completion. Track both, but do not confuse a Wave 50 clear with a Dressrosa clear.",
+          "Keep Fruit Zombie Survival Dressrosa as the first named clear, then move into Fruit Zombie Survival Baratie only after the unlock badge fires."
+        ]
+      },
+      {
+        "id": "best-map-route-new-players",
+        "heading": "Best Map Route for New Players",
+        "intro": "A practical Fruit Zombie Survival Maps checklist for new accounts.",
+        "paragraphs": [
+          "New players should not open every layout on day one. Stabilize the run loop, then use Fruit Zombie Survival Maps as a progression ladder."
+        ],
+        "steps": [
+          {
+            "heading": "Clear a comfortable early-wave baseline",
+            "description": "Aim for Wave 10 stability so map walking does not end every run."
+          },
+          {
+            "heading": "Sweep Dressrosa hidden Diamonds early",
+            "description": "Search side routes before the horde densifies."
+          },
+          {
+            "heading": "Finish Complete Dressrosa",
+            "description": "Unlock Baratie with the official badge path."
+          },
+          {
+            "heading": "Repeat pickups on Baratie",
+            "description": "Do not assume Dressrosa alone finishes Collect all hidden diamonds."
+          },
+          {
+            "heading": "Return to the floor you survive longer",
+            "description": "Use the safer map for Wave 25 and Wave 50 pushes after exploration goals are done."
+          },
+          {
+            "heading": "Ignore unawarded map badges until live",
+            "description": "Arlong Park stays a watch item until players actually earn Complete Arlong Park."
+          }
+        ],
+        "links": [
+          {
+            "label": "Berries during map runs",
+            "slug": "berries",
+            "description": "Power up without confusing Berries and Diamonds."
+          }
+        ]
+      },
+      {
+        "id": "solo-coop-map-tips",
+        "heading": "Map Tips for Solo and Co-op",
+        "intro": "Fruit Zombie Survival Maps play differently alone versus with friends.",
+        "paragraphs": [
+          "Solo: place one strong build on the best choke, keep a Berry spend plan, and do pickup sweeps between pressure spikes. You cannot assign a dedicated scavenger, so explore early waves while trash is thin.",
+          "Co-op (up to four friends): split roles. One player kites, one holds the choke build, one calls Berry timing, and one can sweep Fruit Zombie Survival hidden Diamonds. Revive a Teammate is an official badge, so save windows matter more than greedy corner dives.",
+          "After unlocking Fruit Zombie Survival Baratie, rebuild your placement plan. The Dressrosa doorway you loved may not exist on the new floor.",
+          "Map choice does not replace fruit choice or character choice. Use Maps for routing, then open Characters and the Tier List for loadout decisions.",
+          "Bookmark this Fruit Zombie Survival Maps page with Diamonds and How to Play so routing and farming stay separate.",
+          "Use Fruit Zombie Survival Maps together with the Diamonds page so geography and farming stay cleanly split.",
+          "Revisit Fruit Zombie Survival Maps after every badge unlock so your next floor choice stays current."
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Fruit Zombie Survival Maps facts on this page are anchored to the official Roblox experience and live badges.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official experience: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Badge: Complete Dressrosa — You can now access to the baratie",
+              "Badge: Collect all hidden diamonds",
+              "Badge listed: Complete Arlong Park (0 awards as of 2026-09-19)",
+              "Official description still confirms Berries, Devil Fruits, character builds, and co-op of up to four friends"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What maps are in Fruit Zombie Survival?",
+        "answer": "Confirmed Fruit Zombie Survival Maps currently center on Dressrosa and Baratie. Roblox also lists a Complete Arlong Park badge, but it had zero awards as of September 19, 2026, so treat that name cautiously until it is live for players."
+      },
+      {
+        "question": "How do you unlock Baratie?",
+        "answer": "Earn Complete Dressrosa. The badge description says you can then access the Baratie. Refresh map selection or rejoin if the option does not appear immediately."
+      },
+      {
+        "question": "Where are the hidden Diamonds?",
+        "answer": "Hidden Diamonds are map pickups tied to the Collect all hidden diamonds badge. Search Dressrosa first, then continue the same sweep on Baratie after it unlocks. Deep farming methods live on the Diamonds guide."
+      },
+      {
+        "question": "Is Dressrosa the first map?",
+        "answer": "Dressrosa is the first named completable map confirmed by a Roblox badge with a follow-up unlock. Players still begin in the first playable arena or lobby flow before that milestone."
+      },
+      {
+        "question": "Is Corrida Colosseum part of Dressrosa?",
+        "answer": "Corrida Colosseum is not listed as its own Completable map badge in the current Roblox badge set. Stick to Dressrosa and Baratie as the confirmed named maps unless live map select shows otherwise."
+      },
+      {
+        "question": "Are there more maps coming?",
+        "answer": "Roblox currently lists Complete Arlong Park as a badge name. Exact release timing is not publicly documented as of September 19, 2026, so this Fruit Zombie Survival Maps guide only confirms what is already awardable or unlock-linked today."
+      }
+    ],
+    "relatedSlugs": [
+      "diamonds",
+      "how-to-play",
+      "berries",
+      "characters"
+    ],
+    "lastReviewed": "2026-09-19"
+  },
+  {
+    "enabled": true,
+    "slug": "berries",
+    "pageType": "guide",
+    "navLabel": "Berries",
+    "title": "Fruit Zombie Survival Berries: How to Farm & Spend",
+    "description": "Learn how Fruit Zombie Survival Berries work, how to farm them during runs, when to spend them, and how Berries differ from Diamonds.",
+    "keywords": [
+      "Fruit Zombie Survival Berries",
+      "how to get Berries in Fruit Zombie Survival",
+      "how to farm Berries Fruit Zombie Survival",
+      "Fruit Zombie Survival Berry farm",
+      "what to spend Berries on Fruit Zombie Survival",
+      "Fruit Zombie Survival Berries guide",
+      "Fruit Zombie Survival Berries vs Diamonds"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Berries",
+    "secondaryKeywords": [
+      "how to get Berries in Fruit Zombie Survival",
+      "how to farm Berries Fruit Zombie Survival",
+      "Fruit Zombie Survival Berry farm",
+      "what to spend Berries on Fruit Zombie Survival",
+      "Fruit Zombie Survival Berries guide",
+      "Fruit Zombie Survival Berries vs Diamonds"
+    ],
+    "searchIntent": "Understand what Fruit Zombie Survival Berries are, how to earn and farm them during runs, what to spend them on, when to save, and how they differ from Diamonds.",
+    "priority": "P0",
+    "navVisible": true,
+    "wordCountTarget": 1500,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Berries",
+        "min": 1.5,
+        "max": 3.5
+      },
+      {
+        "term": "how to farm Berries Fruit Zombie Survival",
+        "min": 0.08,
+        "max": 1.0
+      },
+      {
+        "term": "what to spend Berries on Fruit Zombie Survival",
+        "min": 0.08,
+        "max": 1.0
+      },
+      {
+        "term": "Fruit Zombie Survival Berries vs Diamonds",
+        "min": 0.08,
+        "max": 1.0
+      }
+    ],
+    "hero": {
+      "eyebrow": "In-run currency",
+      "heading": "Fruit Zombie Survival Berries Guide",
+      "lead": "Quick answer: Fruit Zombie Survival Berries are the in-run power-up resource. The official Roblox description says to farm Berries to power up during the run. Berries are not Diamonds. Use this Fruit Zombie Survival Berries guide for earn, farm, spend, and save decisions inside a session."
+    },
+    "sections": [
+      {
+        "id": "what-are-berries",
+        "heading": "What Are Berries in Fruit Zombie Survival?",
+        "intro": "Fruit Zombie Survival Berries are the session resource that powers you up while a run is still active.",
+        "table": {
+          "caption": "Berries quick answers checked 2026-09-19",
+          "columns": [
+            "Question",
+            "Answer"
+          ],
+          "rows": [
+            [
+              "What are Berries?",
+              "In-run power-up resource from the official game description"
+            ],
+            [
+              "When are they used?",
+              "During a run, to power up before the next pressure spike"
+            ],
+            [
+              "Do they differ from Diamonds?",
+              "Yes. Berries support the current run; Diamonds support longer-term account progress"
+            ],
+            [
+              "Do they persist?",
+              "Not publicly documented beyond the during-the-run framing; confirm after a wipe in live UI"
+            ],
+            [
+              "How do you earn them?",
+              "By playing the run loop; exact per-kill or per-wave amounts are not publicly listed"
+            ],
+            [
+              "Is there a Berry badge?",
+              "Yes. So much berries: Hold 100,000 Berries at once"
+            ],
+            [
+              "Is there a Berry pass?",
+              "Berry Start (149 Robux) grants 2,000 Berries on new arena runs"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "That definition is enough to stop the most common mistake: treating Fruit Zombie Survival Berries like Diamonds. Diamonds bank for fruits and account goals. Berries exist to keep the current wave fight readable.",
+          "The So much berries badge proves Berries can stack high enough to matter as a milestone, but most players should spend for survival before hunting a 100,000 hold.",
+          "If a friend asks what Fruit Zombie Survival Berries are in one line, say in-run power-ups — then send them this page for farm and spend detail.",
+          "Search intent for Fruit Zombie Survival Berries is practical: earn, farm, spend, and avoid Diamond confusion."
+        ]
+      },
+      {
+        "id": "how-to-get-berries",
+        "heading": "How to Get Berries",
+        "intro": "How to get Berries in Fruit Zombie Survival starts with the official farm-during-the-run loop for Fruit Zombie Survival Berries.",
+        "paragraphs": [
+          "You earn Fruit Zombie Survival Berries by playing survival runs: clearing zombies, pushing waves, and collecting whatever the live run drops or awards. Exact per-zombie or per-wave Berry values are not published on the Roblox page.",
+          "Berry Start at 149 Robux grants 2,000 Berries on new arena runs. That is an optional starter boost, not a replacement for learning the farm loop.",
+          "Codes are more often discussed for Diamonds, revives, and Artifact Crate Rolls. Do not stall a run waiting for a Berry code unless a current code list clearly shows a Berry reward.",
+          "Kill-count badges (100 through 1m zombies) prove combat volume is tracked, which supports a practical rule: cleaner wave clears usually mean healthier Berry income even when the exact drop table is hidden.",
+          "Those are the honest sources of Fruit Zombie Survival Berries until a patch publishes a drop table."
+        ],
+        "bullets": [
+          "Play the run and keep clearing waves instead of AFK waiting",
+          "Pick up run drops safely from the edge rather than diving the clump",
+          "Use Berry Start only if you already understand the spend loop",
+          "Check the live upgrade UI after each wave break for available sinks"
+        ]
+      },
+      {
+        "id": "farm-berries-faster",
+        "heading": "How to Farm Berries Faster",
+        "intro": "How to farm Berries Fruit Zombie Survival is about tempo, not made-up per-minute rates.",
+        "paragraphs": [
+          "A Fruit Zombie Survival Berry farm improves when you reduce downtime between kills and spends. If trash packs live too long, Berry income and wave badges both stall.",
+          "Place character builds on chokes so zombies walk through damage while you kite. Better placement means more consistent clears without constant panic buying.",
+          "In co-op, assign roles. One player can focus pickup paths while another holds the line. Four people vacuuming the same coin wastes movement.",
+          "Do not quote a fake Berries-per-minute number. Trust your on-screen Berry total and the next upgrade cost in the live UI.",
+          "If income still feels slow, change fruit or build role before blaming the economy. A kit that cannot thin Wave 25 will never print Berries efficiently.",
+          "Repeat how to farm Berries Fruit Zombie Survival as a placement-plus-clear habit, then reassess after each map unlock."
+        ],
+        "links": [
+          {
+            "label": "Maps for safer farm routes",
+            "slug": "maps",
+            "description": "Dressrosa and Baratie routing tips."
+          },
+          {
+            "label": "Character build placement",
+            "slug": "characters",
+            "description": "Use special builds to improve clear tempo."
+          }
+        ]
+      },
+      {
+        "id": "what-to-spend-berries-on",
+        "heading": "What to Spend Berries On",
+        "intro": "What to spend Berries on Fruit Zombie Survival should follow the bottleneck that almost ended your last run.",
+        "table": {
+          "caption": "Berry spend priority by bottleneck",
+          "columns": [
+            "Upgrade / Sink",
+            "When to Buy",
+            "Why",
+            "Priority"
+          ],
+          "rows": [
+            [
+              "Survival bottleneck upgrades",
+              "Bosses or packs two-shot you",
+              "Dead players farm zero Berries",
+              "Highest"
+            ],
+            [
+              "Wave-clear bottleneck upgrades",
+              "Trash never dies before the next spawn",
+              "Clear speed feeds Berry tempo",
+              "High"
+            ],
+            [
+              "Boss bottleneck upgrades",
+              "Special bosses stall the lobby",
+              "Boss spikes end otherwise healthy farms",
+              "High after clear is stable"
+            ],
+            [
+              "Convenience or flex buys",
+              "Only after the run feels stable",
+              "Looks cool but does not hold Wave 50",
+              "Lowest"
+            ],
+            [
+              "Hold for So much berries",
+              "Only on a dedicated badge attempt",
+              "Requires holding 100,000 at once",
+              "Special goal"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Exact upgrade names and Berry costs belong to the live run UI. This Fruit Zombie Survival Berries guide lists spend priorities by bottleneck instead of guessed Damage I or Speed II rows.",
+          "Buy the upgrade that answers your last death. If you died to pressure, buy survival. If you died because packs never died, buy clear. If a special boss erased a good run, prepare boss tools before the next spike.",
+          "Spending early is usually correct for normal progression. Saving is a badge strategy, not the default Wave 25 plan.",
+          "Revisit what to spend Berries on Fruit Zombie Survival after you unlock a new character build or a new map choke."
+        ]
+      },
+      {
+        "id": "berries-vs-diamonds",
+        "heading": "Berries vs Diamonds",
+        "intro": "Fruit Zombie Survival Berries vs Diamonds is the comparison that prevents bad spends.",
+        "table": {
+          "caption": "Berries versus Diamonds",
+          "columns": [
+            "Currency",
+            "Used During Run?",
+            "Persists?",
+            "Main Purpose",
+            "Best Guide"
+          ],
+          "rows": [
+            [
+              "Berries",
+              "Yes — power up during the run",
+              "Not publicly documented beyond run framing; confirm in live UI",
+              "In-run upgrades and So much berries badge",
+              "This Berries page"
+            ],
+            [
+              "Diamonds",
+              "Rewards can arrive from runs, but spends are account-level",
+              "Account currency with banking badges",
+              "Fruit unlocks, long-term progress, Richer than rich",
+              "Diamonds guide"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Berry Start helps Berries. The 2x Diamonds pass helps Diamonds. Do not buy the wrong multiplier for the resource you actually need.",
+          "Hidden Diamonds are a map exploration task. Berry farming is a run-tempo task. Keep those intents separate so neither page becomes a duplicate."
+        ],
+        "links": [
+          {
+            "label": "Fruit Zombie Survival Diamonds",
+            "slug": "diamonds",
+            "description": "Codes, hidden Diamonds, and banking."
+          }
+        ]
+      },
+      {
+        "id": "save-or-spend",
+        "heading": "Should You Save or Spend Berries?",
+        "intro": "For Fruit Zombie Survival Berries, default spend. Save only for a clear badge objective.",
+        "paragraphs": [
+          "For normal wave pushes, spend Fruit Zombie Survival Berries to stay ahead of pressure. Holding a huge stack while underleveled is how boss spikes delete otherwise good runs.",
+          "Save when you are specifically hunting So much berries, which requires holding 100,000 Berries at once. Attempt that on a dedicated run with a kit that can already clear without constant shopping.",
+          "If a single emergency buy prevents a wipe, buy it. A dead run is worse than a delayed badge.",
+          "Co-op lobbies should call the plan out loud: spend night versus hold night. Mixed goals in one lobby create wasted pickups and late upgrades.",
+          "Treat Fruit Zombie Survival Berries as fuel for the next spike, not as a second Diamond wallet.",
+          "If your lobby argues about hoarding, point them back to Fruit Zombie Survival Berries spend-first rules."
+        ]
+      },
+      {
+        "id": "berry-farming-routine",
+        "heading": "Fruit Zombie Survival Berry Farming Routine",
+        "intro": "Use this Fruit Zombie Survival Berries routine for a clean session loop.",
+        "steps": [
+          {
+            "heading": "Enter with a readable fruit and character",
+            "description": "Know your skills and where the special build will sit before Wave 1 ends."
+          },
+          {
+            "heading": "Place the build on a choke",
+            "description": "Force the horde through your damage instead of the open middle."
+          },
+          {
+            "heading": "Clear early waves with short downtime",
+            "description": "Keep moving and pick up safely from the edge."
+          },
+          {
+            "heading": "Spend on the current bottleneck",
+            "description": "Survival first if you are fragile; clear first if packs never die."
+          },
+          {
+            "heading": "Prepare before special bosses",
+            "description": "Power up during manageable waves, not mid-wipe."
+          },
+          {
+            "heading": "In co-op, assign pickup and kite roles",
+            "description": "One scavenger beats four overlapping paths."
+          },
+          {
+            "heading": "After Dressrosa unlocks Baratie, relearn routes",
+            "description": "New floors change chokes and pickup timing."
+          },
+          {
+            "heading": "Only then attempt a 100,000 hold run",
+            "description": "Chase So much berries after Wave comfort exists."
+          }
+        ],
+        "links": [
+          {
+            "label": "Full beginner checklist",
+            "slug": "how-to-play",
+            "description": "Session basics before optimizing Berry tempo."
+          },
+          {
+            "label": "Tier List for fruit roles",
+            "slug": "tier-list",
+            "description": "Pick a clearer kit if farm tempo stalls."
+          }
+        ],
+        "paragraphs": [
+          "Run this Fruit Zombie Survival Berries loop for a few nights before changing fruit or class spend plans.",
+          "Keep Fruit Zombie Survival Berries spends tied to the next spike you can already see coming.",
+          "Share this Fruit Zombie Survival Berries page when a teammate still treats Berries like Diamonds.",
+          "After Baratie unlocks, retest Fruit Zombie Survival Berries tempo on the new choke layout."
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "Fruit Zombie Survival Berries facts here are tied to the official description, badges, and existing pass notes.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official experience: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Official text: Farm Berries to power up during the run",
+              "Badge: So much berries — Hold 100,000 Berries at once",
+              "Pass note used across this site: Berry Start (149 Robux) grants 2,000 Berries on new arena runs",
+              "Diamonds comparison badges: Richer than rich and Collect all hidden diamonds"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you get Berries?",
+        "answer": "Play survival runs and farm during the session. The official description frames Berries as a during-the-run power-up resource. Exact per-kill values are not publicly listed."
+      },
+      {
+        "question": "What do Berries do?",
+        "answer": "Fruit Zombie Survival Berries are spent to power up during a run so you can handle later waves and special bosses."
+      },
+      {
+        "question": "Do Berries reset?",
+        "answer": "Persistence after death is not publicly documented beyond the during-the-run framing. Confirm your Berry total in the live UI after a wipe, and plan spends as if the current run matters most."
+      },
+      {
+        "question": "Should I save Berries?",
+        "answer": "Usually no. Spend to survive and clear. Save mainly when hunting the So much berries badge that requires holding 100,000 Berries at once."
+      },
+      {
+        "question": "Are Berries the same as Diamonds?",
+        "answer": "No. Fruit Zombie Survival Berries vs Diamonds is a hard split: Berries power the run, Diamonds fund longer-term account progress."
+      },
+      {
+        "question": "What should I spend Berries on?",
+        "answer": "What to spend Berries on Fruit Zombie Survival depends on your bottleneck: survival, wave clear, then boss prep. Read the live upgrade UI instead of guessed upgrade names."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-play",
+      "diamonds",
+      "tier-list",
+      "characters"
+    ],
+    "lastReviewed": "2026-09-19"
+  },
+  {
+    "enabled": true,
+    "slug": "characters",
+    "pageType": "database",
+    "navLabel": "Characters",
+    "title": "Fruit Zombie Survival Characters Guide (2026)",
+    "description": "Explore confirmed Fruit Zombie Survival characters, builds, abilities and passives, plus how to choose characters for solo, waves, bosses, and co-op.",
+    "keywords": [
+      "Fruit Zombie Survival Characters",
+      "Fruit Zombie Survival character list",
+      "Fruit Zombie Survival characters guide",
+      "Fruit Zombie Survival best character",
+      "Fruit Zombie Survival character builds",
+      "Fruit Zombie Survival passives",
+      "Fruit Zombie Survival classes",
+      "Fruit Zombie Survival character abilities"
+    ],
+    "primaryKeyword": "Fruit Zombie Survival Characters",
+    "secondaryKeywords": [
+      "Fruit Zombie Survival character list",
+      "Fruit Zombie Survival characters guide",
+      "Fruit Zombie Survival best character",
+      "Fruit Zombie Survival character builds",
+      "Fruit Zombie Survival passives",
+      "Fruit Zombie Survival classes",
+      "Fruit Zombie Survival character abilities"
+    ],
+    "searchIntent": "Learn which Fruit Zombie Survival characters are confirmed, how character builds and passives work, how to choose for solo or co-op, and how characters differ from Devil Fruits and artifacts.",
+    "priority": "P1",
+    "navVisible": true,
+    "wordCountTarget": 1500,
+    "factsStatus": "verified",
+    "densityTargets": [
+      {
+        "term": "Fruit Zombie Survival Characters",
+        "min": 1.5,
+        "max": 3.5
+      },
+      {
+        "term": "Fruit Zombie Survival character list",
+        "min": 0.1,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival characters guide",
+        "min": 0.1,
+        "max": 1.2
+      },
+      {
+        "term": "Fruit Zombie Survival character builds",
+        "min": 0.08,
+        "max": 1.0
+      }
+    ],
+    "hero": {
+      "eyebrow": "Builds + passives",
+      "heading": "Fruit Zombie Survival Characters Guide",
+      "lead": "Quick answer: Fruit Zombie Survival Characters let you place special builds during a run. Roblox badges currently confirm Enel and Aokiji by name through secret-passive discoveries. This Fruit Zombie Survival characters guide uses a Confirmed List, not a guessed full roster."
+    },
+    "sections": [
+      {
+        "id": "confirmed-list",
+        "heading": "Fruit Zombie Survival Characters – Confirmed List",
+        "intro": "This Fruit Zombie Survival character list only includes names confirmed by live Roblox badges plus the official build system for Fruit Zombie Survival Characters.",
+        "table": {
+          "caption": "Confirmed character facts checked 2026-09-19",
+          "columns": [
+            "Character",
+            "Role / Build",
+            "Ability / Passive",
+            "Unlock",
+            "Best For",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Enel",
+              "One Piece character with special builds",
+              "Discover Enel Secret passive badge exists; trigger details not published",
+              "Live character / class select; check current unlock cost in-game",
+              "Players hunting the Enel passive badge and lightning-style kits",
+              "Confirmed name"
+            ],
+            [
+              "Aokiji",
+              "One Piece character with special builds",
+              "Discover Aokiji Secret passive badge exists; trigger details not published",
+              "Live character / class select; check current unlock cost in-game",
+              "Players hunting the Aokiji passive badge and control-oriented kits",
+              "Confirmed name"
+            ],
+            [
+              "Additional live select options",
+              "Place special builds during the run",
+              "Not confirmed by public badge names",
+              "Visible in the current character / class UI",
+              "Fill the role your lobby is missing",
+              "Check in-game"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "The official Roblox description says to pick a One Piece character to place special builds. That system fact is stronger than any fan-made twenty-row roster.",
+          "Open the live select screen for the full current set of Fruit Zombie Survival Characters available on your account. Names, cooldowns, and damage percents appear here only when the live game or Roblox badges confirm them.",
+          "If a guide elsewhere lists names that never appear in badges, the shop, or your select UI, ignore them until the live game shows them.",
+          "Use this Fruit Zombie Survival character list as a confirmation sheet, then open the live select UI for anything not badge-named yet.",
+          "That honesty is how Fruit Zombie Survival Characters stays useful when incomplete public data tempts over-complete tables."
+        ]
+      },
+      {
+        "id": "how-characters-work",
+        "heading": "How Characters Work",
+        "intro": "Fruit Zombie Survival Characters are a placement layer on top of your Devil Fruit combat identity.",
+        "paragraphs": [
+          "You choose a character, then place special builds during the run. Builds are map tools: put them on stairs, gates, alleys, and other chokes so the horde is forced to walk through them.",
+          "Characters are not the same thing as Devil Fruits. The fruit defines how you fight. The character defines which special build package you can place. Artifacts are a third layer covered on their own page.",
+          "In co-op with up to four friends, overlapping four heavy builds on one doorway is usually worse than one good choke plan plus a kite. Revive a Teammate is an official badge, so safe positioning still matters.",
+          "After map unlocks such as Baratie, re-place builds. Fruit Zombie Survival character builds that worked on Dressrosa may face a different doorway set on the next floor.",
+          "That split is the core of this Fruit Zombie Survival characters guide: builds for the floor, fruits for your hands."
+        ],
+        "links": [
+          {
+            "label": "Maps and choke changes",
+            "slug": "maps",
+            "description": "Dressrosa to Baratie routing."
+          },
+          {
+            "label": "Berries for run upgrades",
+            "slug": "berries",
+            "description": "Builds do not replace Berry spends."
+          }
+        ]
+      },
+      {
+        "id": "builds-and-passives",
+        "heading": "Character Builds and Passives",
+        "intro": "Fruit Zombie Survival character builds are confirmed as a system; secret passives are confirmed as badges, not as published formulas.",
+        "paragraphs": [
+          "Every character kit in this Fruit Zombie Survival characters guide should be judged by what the placed build actually does in Wave 1 through Wave 10. If you cannot see the value after a short test, switch and retest.",
+          "Enel and Aokiji are the only characters currently named by Roblox badges through Discover Enel Secret passive and Discover Aokiji Secret passive. Exact passive triggers, cooldowns, and percentages are not published on those badge pages.",
+          "Hunt secret passives on a dedicated session after your basic loop is stable. Do not spend three hours guessing a puzzle while Wave 10 is still failing.",
+          "Live class or character shops may list named build pieces for each kit. Read those names from the current UI rather than from memory of another One Piece Roblox game.",
+          "Keep Fruit Zombie Survival character builds on chokes, then hunt Enel or Aokiji passives only after Wave comfort exists."
+        ]
+      },
+      {
+        "id": "best-for-new-players",
+        "heading": "Best Character for New Players",
+        "intro": "The best Fruit Zombie Survival character for a brand-new account is the one you can understand quickly.",
+        "paragraphs": [
+          "This Fruit Zombie Survival characters guide does not force an S-tier name onto new players when combat ranks are still early-data. Use selection criteria instead of a fake ladder.",
+          "Prefer a kit whose placed build is obvious on a choke within one or two waves. If the build feels invisible, you will hate it later even if the model looks strong.",
+          "Match the character to your next goal: wave-clear support, boss support, survivability, or co-op utility. Then spend Berries and test a fruit that covers the same gap.",
+          "If you are buying a paid class, check the live Robux price in the current shop and unlock something you will actually place every run. A shelf character helps nobody.",
+          "Come back to this Fruit Zombie Survival characters guide after your first paid unlock so the next choice is role-based, not hype-based."
+        ],
+        "bullets": [
+          "Readable build effect in early waves",
+          "Fits solo survivability or your co-op role",
+          "Leaves Diamonds free for missing fruits when possible",
+          "Re-tested after Dressrosa unlocks Baratie"
+        ]
+      },
+      {
+        "id": "solo-and-coop",
+        "heading": "Best Characters for Solo and Co-op",
+        "intro": "Solo and co-op need different Fruit Zombie Survival Characters even when the roster is the same.",
+        "table": {
+          "caption": "Role-based character selection",
+          "columns": [
+            "Mode / Role",
+            "What to prioritize",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Solo",
+              "Self-sufficient clear + personal survival",
+              "Nobody else covers your gaps"
+            ],
+            [
+              "Co-op kite",
+              "Mobility and safe reposition tools",
+              "The lobby needs a leader for pathing"
+            ],
+            [
+              "Co-op hold",
+              "Strong placed build on a choke",
+              "Creates a lane the team can trust"
+            ],
+            [
+              "Co-op control",
+              "Slow, stall, or area denial value",
+              "Protects builds and revive windows"
+            ],
+            [
+              "Co-op utility",
+              "Support that creates save space",
+              "Revive a Teammate is a real badge goal"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Named ranking stays limited while public combat data is thin. Enel and Aokiji are confirmed names with secret-passive badges, so they are reasonable test candidates once you can afford or unlock them, not mandatory day-one purchases.",
+          "In a four-player lobby, agree on roles before Wave 1. Four people picking the same niche body is how early runs collapse.",
+          "Re-check Fruit Zombie Survival Characters after each paid unlock so your co-op role still matches the lobby."
+        ]
+      },
+      {
+        "id": "characters-vs-fruits",
+        "heading": "Characters vs Devil Fruits",
+        "intro": "Keep Fruit Zombie Survival Characters and Devil Fruits on separate decision tracks.",
+        "paragraphs": [
+          "Characters place special builds. Devil Fruits unlock the powers you eat and cast. You need both layers, but they solve different problems.",
+          "Collection goals such as Collect 5 through Collect 20 and Fruit Maniac belong to the fruits system. Character secret-passive badges belong to the character system.",
+          "When someone asks for the best Fruit Zombie Survival character, answer with role fit first. When they ask for the best fruit, open the Tier List and Fruits guide instead of turning this page into a second fruit ranking.",
+          "Use Fruit Zombie Survival Characters for selection, then Fruits and the Tier List for the power you eat."
+        ],
+        "links": [
+          {
+            "label": "Fruits guide",
+            "slug": "fruits",
+            "description": "20-fruit collection and unlock notes."
+          },
+          {
+            "label": "Fruit Tier List",
+            "slug": "tier-list",
+            "description": "Wave, boss, solo, and co-op fruit roles."
+          }
+        ]
+      },
+      {
+        "id": "artifacts-synergy",
+        "heading": "How Artifacts Affect Character Builds",
+        "intro": "Artifacts modify the loadout around Fruit Zombie Survival character builds; they do not replace Fruit Zombie Survival Characters.",
+        "paragraphs": [
+          "Artifact crate rolls and Common through Mythic collection badges are a parallel progression track. Equip what you own, then re-test the same character on Wave 10 and Wave 25.",
+          "Do not delay learning placement until you own every artifact. A correct choke build plus Berry spends will carry farther than an empty doorway with rare gear.",
+          "Deep artifact rarity and crate details stay on the Artifacts guide so this characters page remains focused on selection and builds.",
+          "Update your Fruit Zombie Survival Characters pick whenever your co-op role or map choke changes."
+        ],
+        "links": [
+          {
+            "label": "Artifacts guide",
+            "slug": "artifacts",
+            "description": "Crate rolls and rarity collection badges."
+          },
+          {
+            "label": "How to Play",
+            "slug": "how-to-play",
+            "description": "First-run order before heavy optimization."
+          }
+        ]
+      },
+      {
+        "id": "sources-references",
+        "heading": "Sources and References",
+        "intro": "This Fruit Zombie Survival characters guide is anchored to the official description and Roblox badges.",
+        "subsections": [
+          {
+            "heading": "Key points",
+            "paragraphs": [],
+            "bullets": [
+              "Official experience: https://www.roblox.com/games/75290583112878/Fruit-Zombie-Survival",
+              "Official text: Pick a One Piece character to place special builds",
+              "Badge: Discover Enel Secret passive",
+              "Badge: Discover Aokiji Secret passive",
+              "Related systems: Devil Fruits, Berries during the run, co-op up to four friends, Revive a Teammate"
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many characters are in Fruit Zombie Survival?",
+        "answer": "Roblox badges currently confirm two named Fruit Zombie Survival Characters: Enel and Aokiji. The live Fruit Zombie Survival character list in select may show additional options, so use in-game UI for the full current count."
+      },
+      {
+        "question": "What do characters do?",
+        "answer": "Fruit Zombie Survival Characters let you place special builds during a run. That placement layer sits beside your Devil Fruit combat kit."
+      },
+      {
+        "question": "Are characters the same as Devil Fruits?",
+        "answer": "No. Characters provide special builds. Devil Fruits unlock powers you eat. Rank fruits on the Tier List and Fruits pages."
+      },
+      {
+        "question": "What is the best character?",
+        "answer": "There is no honest universal S-rank yet on this Fruit Zombie Survival characters guide. Choose by readable build effect and role fit for solo, waves, bosses, or co-op, then re-test after unlocks."
+      },
+      {
+        "question": "Which character is best for solo?",
+        "answer": "Prefer a self-sufficient kit whose placed build and personal survival both work without teammates. Test Enel or Aokiji when available, but only after the build effect is clear in early waves."
+      },
+      {
+        "question": "Do characters have passives?",
+        "answer": "Enel and Aokiji have official secret-passive badges. Exact trigger details are not published on the badge pages, so confirm progress in live play."
+      }
+    ],
+    "relatedSlugs": [
+      "tier-list",
+      "fruits",
+      "artifacts",
+      "how-to-play",
+      "berries"
+    ],
+    "lastReviewed": "2026-09-19"
   }
 ]

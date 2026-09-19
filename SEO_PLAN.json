@@ -1,7 +1,7 @@
 {
   "gameName": "Fruit Zombie Survival",
-  "syncedAt": "2026-09-14",
-  "supersedes": "Earlier auto-plan that only included home + tier-list",
+  "syncedAt": "2026-09-19",
+  "supersedes": "Earlier seven-page SEO plan",
   "pages": [
     {
       "slug": "",
@@ -94,7 +94,8 @@
         "fruits",
         "artifacts",
         "how-to-play",
-        "diamonds"
+        "diamonds",
+        "characters"
       ],
       "keywordDensityTarget": {
         "min": 0.015,
@@ -195,7 +196,8 @@
         "codes",
         "fruits",
         "tier-list",
-        "how-to-play"
+        "how-to-play",
+        "characters"
       ],
       "keywordDensityTarget": {
         "min": 0.015,
@@ -247,7 +249,8 @@
         "tier-list",
         "diamonds",
         "how-to-play",
-        "artifacts"
+        "artifacts",
+        "characters"
       ],
       "keywordDensityTarget": {
         "min": 0.015,
@@ -300,7 +303,10 @@
         "fruits",
         "diamonds",
         "tier-list",
-        "artifacts"
+        "artifacts",
+        "maps",
+        "berries",
+        "characters"
       ],
       "keywordDensityTarget": {
         "min": 0.015,
@@ -351,7 +357,167 @@
         "codes",
         "fruits",
         "how-to-play",
-        "tier-list"
+        "tier-list",
+        "maps"
+      ],
+      "keywordDensityTarget": {
+        "min": 0.015,
+        "max": 0.035
+      }
+    },
+    {
+      "slug": "maps",
+      "primaryKeyword": "Fruit Zombie Survival Maps",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival map",
+        "Fruit Zombie Survival Dressrosa",
+        "Fruit Zombie Survival Baratie",
+        "Fruit Zombie Survival hidden Diamonds",
+        "Fruit Zombie Survival map guide",
+        "how to unlock Baratie Fruit Zombie Survival",
+        "Fruit Zombie Survival locations"
+      ],
+      "title": "Fruit Zombie Survival Maps: Dressrosa & Baratie Guide",
+      "description": "Fruit Zombie Survival maps guide covering Dressrosa, Baratie, hidden Diamonds, map unlocks, progression, and practical routing tips for Roblox players.",
+      "h1": "Fruit Zombie Survival Maps Guide",
+      "searchIntent": "Learn which Fruit Zombie Survival maps and areas are confirmed, how Dressrosa unlocks Baratie, how hidden Diamonds tie to map exploration, and how to route progression.",
+      "priority": "P0",
+      "navVisible": true,
+      "minWordCount": 900,
+      "targetWordCount": 1500,
+      "densityTargets": [
+        {
+          "term": "Fruit Zombie Survival Maps",
+          "min": 1.5,
+          "max": 3.5
+        },
+        {
+          "term": "Fruit Zombie Survival Dressrosa",
+          "min": 0.1,
+          "max": 1.2
+        },
+        {
+          "term": "Fruit Zombie Survival Baratie",
+          "min": 0.1,
+          "max": 1.2
+        },
+        {
+          "term": "Fruit Zombie Survival hidden Diamonds",
+          "min": 0.08,
+          "max": 1.0
+        }
+      ],
+      "relatedSlugs": [
+        "diamonds",
+        "how-to-play",
+        "berries",
+        "characters"
+      ],
+      "keywordDensityTarget": {
+        "min": 0.015,
+        "max": 0.035
+      }
+    },
+    {
+      "slug": "berries",
+      "primaryKeyword": "Fruit Zombie Survival Berries",
+      "secondaryKeywords": [
+        "how to get Berries in Fruit Zombie Survival",
+        "how to farm Berries Fruit Zombie Survival",
+        "Fruit Zombie Survival Berry farm",
+        "what to spend Berries on Fruit Zombie Survival",
+        "Fruit Zombie Survival Berries guide",
+        "Fruit Zombie Survival Berries vs Diamonds"
+      ],
+      "title": "Fruit Zombie Survival Berries: How to Farm & Spend",
+      "description": "Learn how Fruit Zombie Survival Berries work, how to farm them during runs, when to spend them, and how Berries differ from Diamonds.",
+      "h1": "Fruit Zombie Survival Berries Guide",
+      "searchIntent": "Understand what Fruit Zombie Survival Berries are, how to earn and farm them during runs, what to spend them on, when to save, and how they differ from Diamonds.",
+      "priority": "P0",
+      "navVisible": true,
+      "minWordCount": 900,
+      "targetWordCount": 1500,
+      "densityTargets": [
+        {
+          "term": "Fruit Zombie Survival Berries",
+          "min": 1.5,
+          "max": 3.5
+        },
+        {
+          "term": "how to farm Berries Fruit Zombie Survival",
+          "min": 0.08,
+          "max": 1.0
+        },
+        {
+          "term": "what to spend Berries on Fruit Zombie Survival",
+          "min": 0.08,
+          "max": 1.0
+        },
+        {
+          "term": "Fruit Zombie Survival Berries vs Diamonds",
+          "min": 0.08,
+          "max": 1.0
+        }
+      ],
+      "relatedSlugs": [
+        "how-to-play",
+        "diamonds",
+        "tier-list",
+        "characters"
+      ],
+      "keywordDensityTarget": {
+        "min": 0.015,
+        "max": 0.035
+      }
+    },
+    {
+      "slug": "characters",
+      "primaryKeyword": "Fruit Zombie Survival Characters",
+      "secondaryKeywords": [
+        "Fruit Zombie Survival character list",
+        "Fruit Zombie Survival characters guide",
+        "Fruit Zombie Survival best character",
+        "Fruit Zombie Survival character builds",
+        "Fruit Zombie Survival passives",
+        "Fruit Zombie Survival classes",
+        "Fruit Zombie Survival character abilities"
+      ],
+      "title": "Fruit Zombie Survival Characters Guide (2026)",
+      "description": "Explore confirmed Fruit Zombie Survival characters, builds, abilities and passives, plus how to choose characters for solo, waves, bosses, and co-op.",
+      "h1": "Fruit Zombie Survival Characters Guide",
+      "searchIntent": "Learn which Fruit Zombie Survival characters are confirmed, how character builds and passives work, how to choose for solo or co-op, and how characters differ from Devil Fruits and artifacts.",
+      "priority": "P1",
+      "navVisible": true,
+      "minWordCount": 900,
+      "targetWordCount": 1500,
+      "densityTargets": [
+        {
+          "term": "Fruit Zombie Survival Characters",
+          "min": 1.5,
+          "max": 3.5
+        },
+        {
+          "term": "Fruit Zombie Survival character list",
+          "min": 0.1,
+          "max": 1.2
+        },
+        {
+          "term": "Fruit Zombie Survival characters guide",
+          "min": 0.1,
+          "max": 1.2
+        },
+        {
+          "term": "Fruit Zombie Survival character builds",
+          "min": 0.08,
+          "max": 1.0
+        }
+      ],
+      "relatedSlugs": [
+        "tier-list",
+        "fruits",
+        "artifacts",
+        "how-to-play",
+        "berries"
       ],
       "keywordDensityTarget": {
         "min": 0.015,
